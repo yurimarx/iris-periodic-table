@@ -1,0 +1,82 @@
+<html>
+
+<body style="margin:0;padding:0">
+  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 1070 331" onclick="showCoords(event)">
+    <style>
+      svg a:focus,
+      svg a:hover {
+        outline: none;
+      }
+
+      svg a:focus rect,
+      svg a:hover rect {
+        fill: rgba(30, 222, 121, 0.25);
+        cursor: pointer;
+      }
+    </style>
+    <image width="1070" height="331" xlink:href="periodic2.png">
+      <title>IRIS Periodic Table</title>
+    </image>
+    <g>
+      <a xlink:href="https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=PAGE_globals"
+        target="_blank" title="Globals">
+        <title>Globals</title>
+        <rect title="Globals" x="2" y="0" fill="#fff" opacity="0.0" width="52" height="40" />
+      </a>
+    </g>
+    <g>
+      <a xlink:href="https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=PAGE_sql"
+        target="_blank" title="SQL">
+        <title>SQL</title>
+        <rect x="2" y="42" fill="#fff" opacity="0.0" width="52" height="40" />
+      </a>
+    </g>
+    <g>
+      <a xlink:href="https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GDOCDB">
+        <title>DocDB</title>
+        <rect x="2" y="83" fill="#fff" opacity="0.0" width="52" height="40" />
+      </a>
+    </g>
+    <g>
+      <a xlink:href="https://docs.intersystems.com/irislatest/csp/docbook/Doc.View.cls?KEY=PAGE_bi">
+        <title>Multidimentional Database</title>
+        <rect x="2" y="124" fill="#fff" opacity="0.0" width="52" height="40" />
+      </a>
+    </g>
+    <g>
+      <a xlink:href="https://docs.intersystems.com/irislatest/csp/docbook/Doc.View.cls?KEY=PAGE_text_analytics">
+        <title>NLP Database</title>
+        <rect x="2" y="166" fill="#fff" opacity="0.0" width="52" height="40" />
+      </a>
+    </g>
+    <g>
+      <a xlink:href="https://docs.intersystems.com/irislatest/csp/docbook/Doc.View.cls?KEY=PAGE_multimodel_object">
+        <title>Object Database</title>
+        <rect x="2" y="207" fill="#fff" opacity="0.0" width="52" height="40" />
+      </a>
+    </g>
+    <g>
+      <a xlink:href="https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=PAGE_java_jdbc">
+        <title>JDBC Driver</title>
+        <rect x="2" y="249" fill="#fff" opacity="0.0" width="52" height="40" />
+      </a>
+    </g>
+    <g>
+      <a xlink:href="https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=PAGE_odbc">
+        <title>ODBC Driver</title>
+        <rect x="2" y="291" fill="#fff" opacity="0.0" width="52" height="40" />
+      </a>
+    </g>
+  </svg>
+  <p id="demo"></p>
+  <script>
+    function showCoords(event) {
+      var x = event.clientX;
+      var y = event.clientY;
+      var coords = "X coords: " + x + ", Y coords: " + y;
+      document.getElementById("demo").innerHTML = coords;
+    }
+  </script>
+</body>
+<html>

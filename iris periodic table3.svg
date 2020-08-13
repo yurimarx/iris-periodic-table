@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 640">
+	<defs>
+		<style>
+			svg {
+			background-image: url('periodic.png');
+			background-size: 100% 100%;
+			background-repeat: no-repeat;
+			max-width: 1920px;
+			width: 90%;
+			}
+			path {
+			fill: transparent;
+			cursor: pointer;
+			transition: fill 0.2s
+			}
+			svg a:focus,
+			svg a:hover {
+			outline: none;
+			}
+			svg a:focus path,
+			svg a:hover path {
+			fill: rgba(30,222,121, 0.25);
+			cursor: pointer;
+			}
+		</style>
+	</defs>
+	<g>
+		<title>
+			Globals
+		</title>
+		<a xlink:href="http://google.com" target="_blank">
+			<path d="M 3.5327148e-6,-1.3769531e-7 23.10446,0 V 17.514671 H 1.1179577 Z" />
+		</a>
+	</g>
+	<g>
+		<title>
+			SQL
+		</title>
+		<a xlink:href="http://google.com" target="_blank">
+			<path d="M 1.1179577,17.514671 H 23.10446 V 34.284036 L 1.1179577,34.656691 Z" />
+		</a>
+	</g>
+	<g>
+		<title>
+			DocDB
+		</title>
+		<a xlink:href="http://google.com" target="_blank">
+			<path d="M 1.1179577,34.656691 23.10446,34.284036 v 18.63263 L 0.74530515,52.544014 Z" />
+		</a>
+	</g>
+</svg>
