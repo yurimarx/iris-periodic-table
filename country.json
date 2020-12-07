@@ -1,0 +1,54 @@
+[
+    {
+        "country": "Brazil",
+        "population": "140"
+    },
+    {
+        "country": "USA",
+        "population": "300"
+    },
+    {
+        "country": "Argentina",
+        "population": "60"
+    },
+    {
+        "country": "Portugal",
+        "population": "80"
+    },
+    {
+        "country": "França",
+        "population": "120"
+    },
+    {
+        "country": "Espanha",
+        "population": "80"
+    },
+    {
+        "country": "Alemanha",
+        "population": "100"
+    },
+    {
+        "country": "Russia",
+        "population": "250"
+    },
+    {
+        "country": "Canada",
+        "population": "50"
+    },
+    {
+        "country": "Mexico",
+        "population": "87"
+    },
+    {
+        "country": "Cuba",
+        "population": "20"
+    },
+    {
+        "country": "Peru",
+        "population": "40"
+    },
+    {
+        "country": "Indonesia",
+        "population": "50"
+    }
+]
