@@ -9,6 +9,15 @@
       "benefits": "Are persistent, multidimensional, sparsity(not require contiguous subscripts), can store various types of data and can be accessed using different paradigms, such as relational (SQL), object-oriented (ObjectScript), or direct global access"
     },
     {
+      "topicNumber": "2",
+      "info": "https://www.intersystems.com/industries/healthcare-technology/",
+      "description": "InterSystems HL7® FHIR®-based technology and solutions power success for organizations across the entire healthcare ecosystem.",
+      "groupBlock": "noble gas",
+      "name": "Health Solutions",
+      "symbol": "Hlh",
+      "benefits": "Better Decisions for Care. Better Insights for Management. Better Data for Analytics and AI."
+    },
+    {
       "alloys": "",
       "atomicMass": "4.002602(2)",
       "topicNumber": "2",
