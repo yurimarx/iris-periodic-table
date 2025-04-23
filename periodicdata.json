@@ -18,6 +18,24 @@
       "benefits": "Better Decisions for Care. Better Insights for Management. Better Data for Analytics and AI."
     },
     {
+      "topicNumber": "3",
+      "info": "https://docs.intersystems.com/irisforhealth20251/csp/docbook/DocBook.UI.Page.cls?KEY=PAGE_sql",
+      "description": "The InterSystems IRIS database is a system that consists of a collection of related data stored in globals and routines within a single directory, namespace, or UIC. It is part of the InterSystems IRIS Data Platform, which provides high-performance data management, interoperability, and analytics capabilities. The database is designed to handle various data types and supports multiple access paradigms, making it suitable for building and deploying data-rich applications.",
+      "groupBlock": "nonmetal",
+      "name": "Relational Database",
+      "symbol": "Rel",
+      "benefits": "High performance, security and resilience, even in high-volume, mission-critical data environments"
+    },
+    {
+      "topicNumber": "4",
+      "info": "https://docs.intersystems.com/irisforhealth20251/csp/docbook/Doc.View.cls?KEY=ITECHREF_python",
+      "description": "InterSystems IRIS® data platform gives you options to use Python in different ways. Embedded Python allows you to use Python as a fully supported alternative to InterSystems ObjectScript for creating InterSystems IRIS applications. The Python External Server allows your ObjectScript code to generate a proxy object that controls a corresponding Python target object. The Native SDK for Python is a lightweight interface that allows you to access many InterSystems IRIS features directly from your Python application. The Production EXtension (PEX) framework allows you to use Python to develop custom components of an interoperability production, including adapters and business hosts. For productions, PEX is the standard way to interoperate with Python. The Python ODBC Bridge (pyodbc) allows you to use ODBC to connect to InterSystems IRIS by implementing the DB API 2.0 specification (PEP 249—Python Database API Specification v2.0Opens in a new tab).",
+      "groupBlock": "alkali metal",
+      "name": "Python",
+      "symbol": "Py",
+      "benefits": "Develop end-to-end in Python. Database procedures, integrations, services and microservices, and artificial intelligence."
+    },
+    {
       "alloys": "",
       "atomicMass": "4.002602(2)",
       "topicNumber": "2",
