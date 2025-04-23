@@ -10,11 +10,11 @@ const modalLabels = document.querySelectorAll(".modalLabel");
 
 const modalHeading = document.querySelector(".modalHeading");
 const modalElementSymbol = document.querySelector(".modalElementSymbol");
-const atomicNumber = document.querySelector(".atomicNumber");
+const topicNumber = document.querySelector(".topicNumber");
 const yearDiscovered = document.querySelector(".yearDiscovered");
 const elementFacts = document.querySelector(".elementFacts");
 const elementHistory = document.querySelector(".elementHistory");
-const url = 'https://periodictable.p.rapidapi.com/';
+const url = 'periodicdata.json';
 
 //variable to check if the user has clicked on a tile yet , will update with the value of the clicked tile 
 let selectedTileIndex = null;
@@ -63,7 +63,7 @@ for (let i = 0; i < tileArray.length; i++) {
             // change the innerText and innerHTML to the relevant info for the element in question
             modalElementSymbol.innerText = clickedElement.symbol;
             modalHeading.innerText = clickedElement.name;
-            atomicNumber.innerText = clickedElement.atomicNumber;
+            topicNumber.innerText = clickedElement.topicNumber;
             elementalGroup.innerText = clickedElementalGroup;
             elementState.innerText = clickedElement.standardState;
             yearDiscovered.innerText = clickedElement.yearDiscovered;
