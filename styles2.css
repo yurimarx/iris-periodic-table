@@ -114,7 +114,7 @@
 
   }
 
-  .elementHistory,
+  .elementBenefits,
   .elementDescription{
     margin-top: 5px;
     padding-right: 10px;
@@ -195,7 +195,7 @@ margin-top: 20px;
   }
 
   .elementDescription,
-  .elementHistory {
+  .elementBenefits {
     margin-left: 0;
   }
 

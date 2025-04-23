@@ -2,13 +2,13 @@
     {
       "topicNumber": "1",
       "block": "s",
-      "description": "Element containing no neutron, Lightest element, Lightest gas in the atmosphere, Lowest b.p., Lightest radio-isotope (Tritium - <sup>3</sup><sub>1</sub>H), Element with minimum no. of isotopes",
+      "description": "A multidimensional storage structure used within an InterSystems IRIS database. Globals are implemented using balanced-tree technology and are used to store strings on disk. They are similar to arrays in ObjectScript, and you don't need to declare them. You can use Set statements to store data, and space on disk is only used when needed. The caret (^) or ^|| character(s) are used before the global name to differentiate them from regular variables.",
       "group": "1",
       "groupBlock": "nonmetal",
-      "name": "Hydrogen",
-      "symbol": "H",
+      "name": "Globals",
+      "symbol": "Glo",
       "yearDiscovered": "1766",
-      "history": "The name derives from the Greek word hydro for water and genes for forming because it burned in air to form water. Hydrogen was discovered by the English physicist Henry Cavendish in 1766.<br/>Scientists had been producing hydrogen for years before it was recognized as an element. Written records indicate that Robert Boyle produced hydrogen gas as early as 1671 while experimenting with iron and acids. Hydrogen was first recognized as a distinct element by Henry Cavendish in 1766.Composed of a single proton and a single electron, hydrogen is the simplest and most abundant element in the universe. It is estimated that 90% of the visible universe is composed of hydrogen."
+      "benefits": "Are persistent, multidimensional, sparsity(not require contiguous subscripts), can store various types of data and can be accessed using different paradigms, such as relational (SQL), object-oriented (ObjectScript), or direct global access"
     },
     {
       "alloys": "",
@@ -42,7 +42,7 @@
       "vanDelWaalsRadius": "140",
       "yearDiscovered": "1868",
       "minerals": "",
-      "history": "The name derives from the Greek helios for sun. The element was discovered by spectroscopy during a solar eclipse in the sun's chromosphere by the French astronomer Pierre-Jules-Cesar Janssen in 1868. It was independently discovered and named helium by the English astronomer Joseph Norman Lockyer.<br/>Helium was thought to be only a solar constituent until it was later found to be identical to the helium in the uranium ore cleveite by the Scottish chemist William Ramsay in 1895. The Swedish chemists Per Theodore Cleve and Nils Abraham Langet independently found helium in cleveite at about the same time.<br/>Helium, the second most abundant element in the universe, was discovered on the sun before it was found on the earth. Pierre-Jules-César Janssen, a French astronomer, noticed a yellow line in the sun's spectrum while studying a total solar eclipse in 1868. Sir Norman Lockyer, an English astronomer, realized that this line, with a wavelength of 587.49 nanometers, could not be produced by any element known at the time. It was hypothesized that a new element on the sun was responsible for this mysterious yellow emission. This element was named helium by Lockyer.The hunt to find helium on earth ended in 1895. Sir William Ramsay, a Scottish chemist, conducted an experiment with a mineral containing uranium called clevite. He exposed the clevite to mineral acids and collected the gases that were produced. He then sent a sample of these gases to two scientists, Lockyer and Sir William Crookes, who were able to identify the helium within it. Two Swedish chemists, Nils Langlet and Per Theodor Cleve, independently found helium in clevite at about the same time as Ramsay.<br/>Helium makes up about 0.0005% of the earth's atmosphere. This trace amount of helium is not gravitationally bound to the earth and is constantly lost to space. The earth's atmospheric helium is replaced by the decay of radioactive elements in the earth's crust. Alpha decay, one type of radioactive decay, produces particles called alpha particles. An alpha particle can become a helium atom once it captures two electrons from its surroundings. This newly formed helium can eventually work its way to the atmosphere through cracks in the crust."
+      "benefits": "The name derives from the Greek helios for sun. The element was discovered by spectroscopy during a solar eclipse in the sun's chromosphere by the French astronomer Pierre-Jules-Cesar Janssen in 1868. It was independently discovered and named helium by the English astronomer Joseph Norman Lockyer.<br/>Helium was thought to be only a solar constituent until it was later found to be identical to the helium in the uranium ore cleveite by the Scottish chemist William Ramsay in 1895. The Swedish chemists Per Theodore Cleve and Nils Abraham Langet independently found helium in cleveite at about the same time.<br/>Helium, the second most abundant element in the universe, was discovered on the sun before it was found on the earth. Pierre-Jules-César Janssen, a French astronomer, noticed a yellow line in the sun's spectrum while studying a total solar eclipse in 1868. Sir Norman Lockyer, an English astronomer, realized that this line, with a wavelength of 587.49 nanometers, could not be produced by any element known at the time. It was hypothesized that a new element on the sun was responsible for this mysterious yellow emission. This element was named helium by Lockyer.The hunt to find helium on earth ended in 1895. Sir William Ramsay, a Scottish chemist, conducted an experiment with a mineral containing uranium called clevite. He exposed the clevite to mineral acids and collected the gases that were produced. He then sent a sample of these gases to two scientists, Lockyer and Sir William Crookes, who were able to identify the helium within it. Two Swedish chemists, Nils Langlet and Per Theodor Cleve, independently found helium in clevite at about the same time as Ramsay.<br/>Helium makes up about 0.0005% of the earth's atmosphere. This trace amount of helium is not gravitationally bound to the earth and is constantly lost to space. The earth's atmospheric helium is replaced by the decay of radioactive elements in the earth's crust. Alpha decay, one type of radioactive decay, produces particles called alpha particles. An alpha particle can become a helium atom once it captures two electrons from its surroundings. This newly formed helium can eventually work its way to the atmosphere through cracks in the crust."
     },
     {
       "alloys": "",
@@ -76,7 +76,7 @@
       "vanDelWaalsRadius": "182",
       "yearDiscovered": "1817",
       "minerals": "",
-      "history": "The name derives from the Latin lithos for stone because lithium was thought to exist only in minerals at that time. It was discovered by the Swedish mineralogist Johan August Arfwedson in 1818 in the mineral petalite LiAl(Si2O5)2. Lithium was isolated in 1855 by the German chemists Robert Wilhelm Bunsen and Augustus Matthiessen.<br/>Lithium was discovered in the mineral petalite (LiAl(Si2O5)2) by Johann August Arfvedson in 1817. It was first isolated by William Thomas Brande and Sir Humphrey Davy through the electrolysis of lithium oxide (Li2O). Today, larger amounts of the metal are obtained through the electrolysis of lithium chloride (LiCl). Lithium is not found free in nature and makes up only 0.0007% of the earth's crust.<br/>Lithium is the lightest of all metals, with a density only about half that of water."
+      "benefits": "The name derives from the Latin lithos for stone because lithium was thought to exist only in minerals at that time. It was discovered by the Swedish mineralogist Johan August Arfwedson in 1818 in the mineral petalite LiAl(Si2O5)2. Lithium was isolated in 1855 by the German chemists Robert Wilhelm Bunsen and Augustus Matthiessen.<br/>Lithium was discovered in the mineral petalite (LiAl(Si2O5)2) by Johann August Arfvedson in 1817. It was first isolated by William Thomas Brande and Sir Humphrey Davy through the electrolysis of lithium oxide (Li2O). Today, larger amounts of the metal are obtained through the electrolysis of lithium chloride (LiCl). Lithium is not found free in nature and makes up only 0.0007% of the earth's crust.<br/>Lithium is the lightest of all metals, with a density only about half that of water."
     },
     {
       "alloys": "",
@@ -110,7 +110,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1798",
       "minerals": "",
-      "history": "The name derives from the Greek word beryllos for beryl, a gemstone in which it is found (3BeO×Al2O3×6SiO2).Beryllium was discovered by the French chemist and pharmacist Nicholas-Louis Vauquelin in beryl and emerald in 1797. The element was first separated in 1828 by the French chemist Antoine-Alexandre-Brutus Bussy and independently by the German chemist Friedrich Wöhler. Because the salts of beryllium have a sweet taste, the element was also known as glucinium from the Greek glykys for sweet, until IUPAC selected the name beryllium in 1949.<br/>Although emeralds and beryl were known to ancient civilizations, they were first recognized as the same mineral (Be3Al2(SiO3)6) by Abbé Haüy in 1798. Later that year, Louis-Nicholas Vauquelin, a French chemist, discovered that an element was present in emeralds and beryl. Attempts to isolate the new element finally succeeded in 1828 when two chemists, Friedrich Wölhler of Germany and A. Bussy of France, independently produced beryllium by reducing beryllium chloride (BeCl2) with potassium in a platinum crucible. Today, beryllium is primarily obtained from the minerals beryl (Be3Al2(SiO3)6) and bertrandite (4BeO·2SiO2·H2O) through a chemical process or through the electrolysis of a mixture of molten beryllium chloride (BeCl2) and sodium chloride (NaCl)."
+      "benefits": "The name derives from the Greek word beryllos for beryl, a gemstone in which it is found (3BeO×Al2O3×6SiO2).Beryllium was discovered by the French chemist and pharmacist Nicholas-Louis Vauquelin in beryl and emerald in 1797. The element was first separated in 1828 by the French chemist Antoine-Alexandre-Brutus Bussy and independently by the German chemist Friedrich Wöhler. Because the salts of beryllium have a sweet taste, the element was also known as glucinium from the Greek glykys for sweet, until IUPAC selected the name beryllium in 1949.<br/>Although emeralds and beryl were known to ancient civilizations, they were first recognized as the same mineral (Be3Al2(SiO3)6) by Abbé Haüy in 1798. Later that year, Louis-Nicholas Vauquelin, a French chemist, discovered that an element was present in emeralds and beryl. Attempts to isolate the new element finally succeeded in 1828 when two chemists, Friedrich Wölhler of Germany and A. Bussy of France, independently produced beryllium by reducing beryllium chloride (BeCl2) with potassium in a platinum crucible. Today, beryllium is primarily obtained from the minerals beryl (Be3Al2(SiO3)6) and bertrandite (4BeO·2SiO2·H2O) through a chemical process or through the electrolysis of a mixture of molten beryllium chloride (BeCl2) and sodium chloride (NaCl)."
     },
     {
       "alloys": "",
@@ -144,7 +144,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1807",
       "minerals": "",
-      "history": "The name derives from the Arabic buraq for whiteBoron was discovered by Joseph-Louis Gay-Lussac and Louis-Jaques Thénard, French chemists, and independently by Sir Humphry Davy, an English chemist, in 1808. They all isolated boron by combining boric acid (H3BO3) with potassium. Today, boron is obtained by heating borax (Na2B4O7·10H2O) with carbon, although other methods are used if high-purity boron is required."
+      "benefits": "The name derives from the Arabic buraq for whiteBoron was discovered by Joseph-Louis Gay-Lussac and Louis-Jaques Thénard, French chemists, and independently by Sir Humphry Davy, an English chemist, in 1808. They all isolated boron by combining boric acid (H3BO3) with potassium. Today, boron is obtained by heating borax (Na2B4O7·10H2O) with carbon, although other methods are used if high-purity boron is required."
     },
     {
       "alloys": "",
@@ -178,7 +178,7 @@
       "vanDelWaalsRadius": "170",
       "yearDiscovered": "Ancient",
       "minerals": "",
-      "history": "The name derives from the Latin carbo for charcoal. It was known in prehistoric times in the form of charcoal and soot. In 1797, the English chemist Smithson Tennant proved that diamond is pure carbon.<br/>Carbon, the sixth most abundant element in the universe, has been known since ancient times. Carbon is most commonly obtained from coal deposits, although it usually must be processed into a form suitable for commercial use. Three naturally occurring allotropes of carbon are known to exist: amorphous, graphite and diamond."
+      "benefits": "The name derives from the Latin carbo for charcoal. It was known in prehistoric times in the form of charcoal and soot. In 1797, the English chemist Smithson Tennant proved that diamond is pure carbon.<br/>Carbon, the sixth most abundant element in the universe, has been known since ancient times. Carbon is most commonly obtained from coal deposits, although it usually must be processed into a form suitable for commercial use. Three naturally occurring allotropes of carbon are known to exist: amorphous, graphite and diamond."
     },
     {
       "alloys": "",
@@ -212,7 +212,7 @@
       "vanDelWaalsRadius": "155",
       "yearDiscovered": "1772",
       "minerals": "",
-      "history": "The name derives from the Latin nitrum and Greek nitron for native soda and genes for forming. Nitrogen was discovered by the Scottish physician Daniel Rutherford in 1772. It is the fifth most abundant element in the universe and makes up about 78% of the earth's atmosphere, which contains an estimated 4,000 trillion tons of the gas. Nitrogen is obtained from liquefied air through a process known as fractional distillation. He removed oxygen and carbon dioxide from air and showed that the residual gas would not support combustion or living organisms. At the same time there were other noted scientists working on the problem of nitrogen. These included Scheele, Cavendish, Priestley, and others. They called it burnt or dephlogisticated air, which meant air without oxygen."
+      "benefits": "The name derives from the Latin nitrum and Greek nitron for native soda and genes for forming. Nitrogen was discovered by the Scottish physician Daniel Rutherford in 1772. It is the fifth most abundant element in the universe and makes up about 78% of the earth's atmosphere, which contains an estimated 4,000 trillion tons of the gas. Nitrogen is obtained from liquefied air through a process known as fractional distillation. He removed oxygen and carbon dioxide from air and showed that the residual gas would not support combustion or living organisms. At the same time there were other noted scientists working on the problem of nitrogen. These included Scheele, Cavendish, Priestley, and others. They called it burnt or dephlogisticated air, which meant air without oxygen."
     },
     {
       "alloys": "",
@@ -246,7 +246,7 @@
       "vanDelWaalsRadius": "152",
       "yearDiscovered": "1774",
       "minerals": "",
-      "history": "The name derives from the Greek oxys for acid and genes for forming because the French chemist Antoine-Laurent Lavoisier once thought that oxygen was integral to all acids.Oxygen was discovered independently by the Swedish pharmacist and chemist Carl-Wilhelm Scheele in 1771, and the English clergyman and chemist Joseph Priestley in 1774. Scheele's Chemical Treatise on Air and Fire was delayed in publication until 1777, so Priestley is credited with the discovery because he published first. The name oxygen was created by Antoine Lavoisier. Its atomic weight was used as a standard of comparison for each of the other elements until 1961 when the International Union of Pure and Applied Chemistry adopted carbon 12 as the new basis."
+      "benefits": "The name derives from the Greek oxys for acid and genes for forming because the French chemist Antoine-Laurent Lavoisier once thought that oxygen was integral to all acids.Oxygen was discovered independently by the Swedish pharmacist and chemist Carl-Wilhelm Scheele in 1771, and the English clergyman and chemist Joseph Priestley in 1774. Scheele's Chemical Treatise on Air and Fire was delayed in publication until 1777, so Priestley is credited with the discovery because he published first. The name oxygen was created by Antoine Lavoisier. Its atomic weight was used as a standard of comparison for each of the other elements until 1961 when the International Union of Pure and Applied Chemistry adopted carbon 12 as the new basis."
     },
     {
       "alloys": "",
@@ -280,7 +280,7 @@
       "vanDelWaalsRadius": "147",
       "yearDiscovered": "1670",
       "minerals": "",
-      "history": "The name derives from the Latin fluere for flow or flux because fluorite (CaF2) was used as a flux in metallurgy owing to its low melting point. It was discovered in hydrofluoric acid by the Swedish pharmacist and chemist Carl-Wilhelm Scheele in 1771, but it was not isolated until 1886 by the French pharmacist and chemist Henri Moissan. He did this through the electrolysis of potassium fluoride (KF) and hydrofluoric acid (HF). He also completely isolated the fluorine gas from the hydrogen gas and he built his electrolysis device completely from platinum. His work was so impressive that he was awarded the Nobel Prize for chemistry in 1906"
+      "benefits": "The name derives from the Latin fluere for flow or flux because fluorite (CaF2) was used as a flux in metallurgy owing to its low melting point. It was discovered in hydrofluoric acid by the Swedish pharmacist and chemist Carl-Wilhelm Scheele in 1771, but it was not isolated until 1886 by the French pharmacist and chemist Henri Moissan. He did this through the electrolysis of potassium fluoride (KF) and hydrofluoric acid (HF). He also completely isolated the fluorine gas from the hydrogen gas and he built his electrolysis device completely from platinum. His work was so impressive that he was awarded the Nobel Prize for chemistry in 1906"
     },
     {
       "alloys": "",
@@ -314,7 +314,7 @@
       "vanDelWaalsRadius": "154",
       "yearDiscovered": "1898",
       "minerals": "",
-      "history": "The name derives from the Greek neos for new. It was discovered from its bright orange spectral lines by the Scottish chemist William Ramsay and the English chemist Morris William Travers in 1898 from a liquefied air sample."
+      "benefits": "The name derives from the Greek neos for new. It was discovered from its bright orange spectral lines by the Scottish chemist William Ramsay and the English chemist Morris William Travers in 1898 from a liquefied air sample."
     },
     {
       "alloys": "",
@@ -348,7 +348,7 @@
       "vanDelWaalsRadius": "227",
       "yearDiscovered": "1807",
       "minerals": "Zeolite (Na2Al2SiO8.xH2O), Calgon (Graham's Salt) ((NaPO3)n,Na2[NH4(PO3)6]), Borax (Na2B4O7.10H2O), Glauber's Salt (Na2SO4.10H20)",
-      "history": "The name derives from the English soda and Latin sodanum for headache remedy. The symbol Na derives from the Latin natrium for natron (soda in English). Sodium was discovered in 1807 by the English chemist Humphry Davy from electrolysis of caustic soda (NaOH)."
+      "benefits": "The name derives from the English soda and Latin sodanum for headache remedy. The symbol Na derives from the Latin natrium for natron (soda in English). Sodium was discovered in 1807 by the English chemist Humphry Davy from electrolysis of caustic soda (NaOH)."
     },
     {
       "alloys": "",
@@ -382,7 +382,7 @@
       "vanDelWaalsRadius": "173",
       "yearDiscovered": "1808",
       "minerals": "dolomite (CaCO3·MgCO3), carnallite (KCl·MgCl2·6H2O), Talc (Mg2(Si2O5)2Mg(OH)2)",
-      "history": "The name derives from Magnesia, a district in the north-eastern region of Greece called Thessalia. The Scottish chemist Joseph Black recognized it as a separate element in 1755. In 1808, the English chemist Humphry Davy obtained the impure metal, and in 1831 the French pharmacist and chemist Antoine- Alexandre Brutus Bussy isolated the metal in the pure state."
+      "benefits": "The name derives from Magnesia, a district in the north-eastern region of Greece called Thessalia. The Scottish chemist Joseph Black recognized it as a separate element in 1755. In 1808, the English chemist Humphry Davy obtained the impure metal, and in 1831 the French pharmacist and chemist Antoine- Alexandre Brutus Bussy isolated the metal in the pure state."
     },
     {
       "alloys": "",
@@ -416,7 +416,7 @@
       "vanDelWaalsRadius": "184",
       "yearDiscovered": "Ancient",
       "minerals": "potassium aluminum sulfate (KAl(SO4)2·12H2O), aluminum oxide (Al2O3), cryolite (Na3AlF6), spinel (MgAl2O4), Na-β-alumina (NaAl11O17), tricalcium aluminate (Ca3Al2O6",
-      "history": "Named by Humphry Davy, The name derives from the Latin, alum and alumen for stringent because the early Romans called any substance with a stringent taste alum. In 1825, the Danish physicist, Hans Christian Oersted, isolated impure aluminium. The pure metal was first isolated by the German chemist Friedrich Wöhler in 1827."
+      "benefits": "Named by Humphry Davy, The name derives from the Latin, alum and alumen for stringent because the early Romans called any substance with a stringent taste alum. In 1825, the Danish physicist, Hans Christian Oersted, isolated impure aluminium. The pure metal was first isolated by the German chemist Friedrich Wöhler in 1827."
     },
     {
       "alloys": "",
@@ -450,7 +450,7 @@
       "vanDelWaalsRadius": "210",
       "yearDiscovered": "1854",
       "minerals": ", Silicon carbide (SiC), water glass( Sodium silicate (Na2SiO3)), Silicon tetrachloride (SiCl4) ",
-      "history": "Named by Thomas Thomson , The name derives from the Latin silex and silicis for flint. Amorphous silicon was discovered by the Swedish chemist Jöns Jacob Berzelius in 1824. Crystalline silicon was first prepared by the French chemist Henri Sainte-Claire Deville in 1854."
+      "benefits": "Named by Thomas Thomson , The name derives from the Latin silex and silicis for flint. Amorphous silicon was discovered by the Swedish chemist Jöns Jacob Berzelius in 1824. Crystalline silicon was first prepared by the French chemist Henri Sainte-Claire Deville in 1854."
     },
     {
       "alloys": "",
@@ -484,7 +484,7 @@
       "vanDelWaalsRadius": "180",
       "yearDiscovered": "1669",
       "minerals": "phosphate rock (Ca3(PO4)2), Calcium phosphate (Ca3(PO4)2",
-      "history": "The name derives from the Greek phosphoros for bringing light because it has the property of glowing in the dark. This was also the ancient name for the planet Venus, when it appears before sunrise. Phosphorus was discovered by the German merchant Hennig Brand in 1669."
+      "benefits": "The name derives from the Greek phosphoros for bringing light because it has the property of glowing in the dark. This was also the ancient name for the planet Venus, when it appears before sunrise. Phosphorus was discovered by the German merchant Hennig Brand in 1669."
     },
     {
       "alloys": "",
@@ -518,7 +518,7 @@
       "vanDelWaalsRadius": "180",
       "yearDiscovered": "Ancient",
       "minerals": "galena (PbS), gypsum (CaSO4·2(H2O), pyrite (FeS2), sphalerite (ZnS or FeS), cinnabar (HgS), stibnite (Sb2S3), epsomite (MgSO4·7(H2O)), celestite (SrSO4) and barite (BaSO4).",
-      "history": "The name derives from the Latin sulphurium and the Sanskrit sulveri. Sulfur was known as brenne stone for combustible stone from which brim-stone is derived. It was known from prehistoric times and thought to contain hydrogen and oxygen. In 1809, the French chemists Louis-Joseph Gay-Lussac and Louis-Jacques Thenard proved the elemental nature of sulfur."
+      "benefits": "The name derives from the Latin sulphurium and the Sanskrit sulveri. Sulfur was known as brenne stone for combustible stone from which brim-stone is derived. It was known from prehistoric times and thought to contain hydrogen and oxygen. In 1809, the French chemists Louis-Joseph Gay-Lussac and Louis-Jacques Thenard proved the elemental nature of sulfur."
     },
     {
       "alloys": "",
@@ -552,7 +552,7 @@
       "vanDelWaalsRadius": "175",
       "yearDiscovered": "1774",
       "minerals": "chloroform (CHCl3), carbon tetrachloride (CCl4), potassium chloride (KCl), lithium chloride (LiCl), magnesium chloride (MgCl2) and chlorine dioxide (ClO2).",
-      "history": "The name derives from the Greek chloros for pale green or greenish yellow colour of the element. It was discovered by the Swedish pharmacist and chemist Carl-Wilhelm Scheele in 1774 when he combined the mineral pyrolusite (MnO2) with hydrochloric acid (HCl) . In 1810, the English chemist Humphry Davy proved it was an element."
+      "benefits": "The name derives from the Greek chloros for pale green or greenish yellow colour of the element. It was discovered by the Swedish pharmacist and chemist Carl-Wilhelm Scheele in 1774 when he combined the mineral pyrolusite (MnO2) with hydrochloric acid (HCl) . In 1810, the English chemist Humphry Davy proved it was an element."
     },
     {
       "alloys": "",
@@ -586,7 +586,7 @@
       "vanDelWaalsRadius": "188",
       "yearDiscovered": "1894",
       "minerals": "",
-      "history": "The name derives from the Greek argos for lazy or inactive because it does not combine with other elements. It was discovered in 1894 by the Scottish chemist William Ramsay and the English physicist Robert John Strutt (Lord Rayleigh) in liquefied air. Rayleigh's initial interest derived from a problem posed by the English physicist Henry Cavendish in 1785, i.e., when oxygen and nitrogen were removed from air, there was an unknown residual gas remaining."
+      "benefits": "The name derives from the Greek argos for lazy or inactive because it does not combine with other elements. It was discovered in 1894 by the Scottish chemist William Ramsay and the English physicist Robert John Strutt (Lord Rayleigh) in liquefied air. Rayleigh's initial interest derived from a problem posed by the English physicist Henry Cavendish in 1785, i.e., when oxygen and nitrogen were removed from air, there was an unknown residual gas remaining."
     },
     {
       "alloys": "",
@@ -620,7 +620,7 @@
       "vanDelWaalsRadius": "275",
       "yearDiscovered": "1807",
       "minerals": "ylvite (KCl), carnallite (KCl·MgCl2·6H2O), langbeinite (K2Mg2(SO4)3) and polyhalite (K2Ca2Mg(SO4)4·2H2O), Caustic potash",
-      "history": "The name derives from the English potash or pot ashes because it is found in caustic potash (KOH). The symbol K derives from the Latin kalium via the Arabic qali for alkali. It was first isolated by the British chemist Humphry Davy in 1807 from electrolysis of potash (KOH)."
+      "benefits": "The name derives from the English potash or pot ashes because it is found in caustic potash (KOH). The symbol K derives from the Latin kalium via the Arabic qali for alkali. It was first isolated by the British chemist Humphry Davy in 1807 from electrolysis of potash (KOH)."
     },
     {
       "alloys": "",
@@ -654,7 +654,7 @@
       "vanDelWaalsRadius": "231",
       "yearDiscovered": "Ancient",
       "minerals": "gypsum( calcium sulfate (CaSO4) )",
-      "history": "The name derives from the Latin calx for lime (CaO) or limestone (CaCO3) in which it was found. It was first isolated by British chemist Humphry Davy in 1808 with help from the Swedish chemist Jöns Jacob Berzelius and the Swedish court physician M. M. af Pontin."
+      "benefits": "The name derives from the Latin calx for lime (CaO) or limestone (CaCO3) in which it was found. It was first isolated by British chemist Humphry Davy in 1808 with help from the Swedish chemist Jöns Jacob Berzelius and the Swedish court physician M. M. af Pontin."
     },
     {
       "alloys": "",
@@ -688,7 +688,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1876",
       "minerals": "",
-      "history": "Scandium was discovered by Lars Fredrik Nilson, a Swedish chemist, in 1879 while attempting to produce a sample of pure ytterbia from 10 kilograms of the mineral euxenite ((Y, Ca, Er, La, Ce, U, Th)(Nb, Ta, Ti)2O6). Metallic scandium was first produced in 1937 and the first pound (0.45 kilograms) of pure scandium was produced in 1960. The name derives from the Latin word Scandia, Scandinavia. The element was discovered by Nilson in 1878 in the minerals euxenite and gadolinite"
+      "benefits": "Scandium was discovered by Lars Fredrik Nilson, a Swedish chemist, in 1879 while attempting to produce a sample of pure ytterbia from 10 kilograms of the mineral euxenite ((Y, Ca, Er, La, Ce, U, Th)(Nb, Ta, Ti)2O6). Metallic scandium was first produced in 1937 and the first pound (0.45 kilograms) of pure scandium was produced in 1960. The name derives from the Latin word Scandia, Scandinavia. The element was discovered by Nilson in 1878 in the minerals euxenite and gadolinite"
     },
     {
       "alloys": "",
@@ -722,7 +722,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1791",
       "minerals": "rutile (TiO2), ilmenite (FeTiO3) and sphene (CaTiSiO5)",
-      "history": "The name derives from the Latin titans, who were the mythological first sons of the earth. It was originally discovered by the English clergyman William Gregor in the mineral ilmenite (FeTiO3) in 1791. He called this mineral menachanite and the element menachin, for the Menachan parish where it was found. It was rediscovered in 1795 by the German chemist Martin Heinrich Klaproth, who called it titanium because it had no characteristic properties to use as a name. Titanium metal was first isolated by the Swedish chemists Sven Otto Pettersson and Lars Fredrik Nilson."
+      "benefits": "The name derives from the Latin titans, who were the mythological first sons of the earth. It was originally discovered by the English clergyman William Gregor in the mineral ilmenite (FeTiO3) in 1791. He called this mineral menachanite and the element menachin, for the Menachan parish where it was found. It was rediscovered in 1795 by the German chemist Martin Heinrich Klaproth, who called it titanium because it had no characteristic properties to use as a name. Titanium metal was first isolated by the Swedish chemists Sven Otto Pettersson and Lars Fredrik Nilson."
     },
     {
       "alloys": "",
@@ -756,7 +756,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1803",
       "minerals": "",
-      "history": "The name derives from the Scandinavian goddess of love and beauty, Freyja Vanadis, because of its many beautiful multi-coloured compounds. Vanadium was discovered by the Swedish physician and chemist Nils-Gabriel Sefström in 1830.Vanadium had originally been discovered by the Spanish mineralogist Andres Manuel del Rio y Fernandez in 1801, who named it erythronium, after the plant of that name whose flowers have many beautiful colours. Del Rio later decided that it was really chromium in his lead sample. Vanadium metal was first isolated by the English chemist Henry Enfield Roscoe in 1869."
+      "benefits": "The name derives from the Scandinavian goddess of love and beauty, Freyja Vanadis, because of its many beautiful multi-coloured compounds. Vanadium was discovered by the Swedish physician and chemist Nils-Gabriel Sefström in 1830.Vanadium had originally been discovered by the Spanish mineralogist Andres Manuel del Rio y Fernandez in 1801, who named it erythronium, after the plant of that name whose flowers have many beautiful colours. Del Rio later decided that it was really chromium in his lead sample. Vanadium metal was first isolated by the English chemist Henry Enfield Roscoe in 1869."
     },
     {
       "alloys": "",
@@ -790,7 +790,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "Ancient",
       "minerals": "chromite (FeCr2O4) ",
-      "history": "The name derives from the Greek chroma for colour, from the many coloured compounds of chromium. It was discovered while experimenting with a material known as Siberian red lead, also known as the mineral crocoite (PbCrO4), in 1797 by the French chemist and pharmacist Nicolas-Louis Vauquelin, who also isolated chromium in 1798."
+      "benefits": "The name derives from the Greek chroma for colour, from the many coloured compounds of chromium. It was discovered while experimenting with a material known as Siberian red lead, also known as the mineral crocoite (PbCrO4), in 1797 by the French chemist and pharmacist Nicolas-Louis Vauquelin, who also isolated chromium in 1798."
     },
     {
       "alloys": "",
@@ -824,7 +824,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1774",
       "minerals": "pyrolusite",
-      "history": "The name derives from the Latin magnes for magnet since pyrolusite (MnO2) has magnetic properties. It was discovered by the Swedish pharmacist and chemist Carl-Wilhelm Scheele in 1774. In the same year, the Swedish chemist Johan Gottlieb Gahn first isolated the metal, by heating the mineral pyrolusite (MnO2) in the presence of charcoal"
+      "benefits": "The name derives from the Latin magnes for magnet since pyrolusite (MnO2) has magnetic properties. It was discovered by the Swedish pharmacist and chemist Carl-Wilhelm Scheele in 1774. In the same year, the Swedish chemist Johan Gottlieb Gahn first isolated the metal, by heating the mineral pyrolusite (MnO2) in the presence of charcoal"
     },
     {
       "alloys": "",
@@ -858,7 +858,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "Ancient",
       "minerals": "hematite (Fe2O3), magnetite (Fe3O4), taconite, limonite (FeO(OH)·nH2O) and siderite (FeCO3) ",
-      "history": "The name derives from the Anglo-Saxon iron of unknown origin. The element has been known from prehistoric times. The symbol Fe is derived from the Latin ferrum for firmness. It is of interest to note that 56Fe requires more energy to be formed than any other nuclide. It is, therefore, the ultimate endproduct of stellar nuclear fusion."
+      "benefits": "The name derives from the Anglo-Saxon iron of unknown origin. The element has been known from prehistoric times. The symbol Fe is derived from the Latin ferrum for firmness. It is of interest to note that 56Fe requires more energy to be formed than any other nuclide. It is, therefore, the ultimate endproduct of stellar nuclear fusion."
     },
     {
       "alloys": "",
@@ -892,7 +892,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "Ancient",
       "minerals": "cobaltite (CoAsS) and erythrite (Co3(AsO4)2)",
-      "history": "The name derives from the German Kobold for evil spirits or goblins, who were superstitiously thought to cause trouble for miners because the mineral contained arsenic that injured their health and the metallic ores did not yield metals when treated with the normal methods. Cobalt was discovered in 1735 by the Swedish chemist Georg Brandt."
+      "benefits": "The name derives from the German Kobold for evil spirits or goblins, who were superstitiously thought to cause trouble for miners because the mineral contained arsenic that injured their health and the metallic ores did not yield metals when treated with the normal methods. Cobalt was discovered in 1735 by the Swedish chemist Georg Brandt."
     },
     {
       "alloys": "",
@@ -926,7 +926,7 @@
       "vanDelWaalsRadius": "163",
       "yearDiscovered": "1751",
       "minerals": "Nichrome(R), Permalloy(R), constantan, pentlandite, pyrrhotite",
-      "history": "The name derives from the German Nickel for deceptive little spirit because miners called mineral niccolite (NiAs) by the name Kupfernickel (false copper) because it resembled copper ores in appearance, but no copper was found in the ore. It was discovered by the Swedish metallurgist Axel-Frederik Cronstedt in 1751."
+      "benefits": "The name derives from the German Nickel for deceptive little spirit because miners called mineral niccolite (NiAs) by the name Kupfernickel (false copper) because it resembled copper ores in appearance, but no copper was found in the ore. It was discovered by the Swedish metallurgist Axel-Frederik Cronstedt in 1751."
     },
     {
       "alloys": "",
@@ -960,7 +960,7 @@
       "vanDelWaalsRadius": "140",
       "yearDiscovered": "Ancient",
       "minerals": "cuprite (CuO2), tenorite (CuO), malachite (CuO3·Cu(OH)2), chalcocite (Cu2S), covellite (CuS) and bornite (Cu6FeS4)",
-      "history": "The name derives from the Latin cuprum for Cyprus, the island where the Romans first obtained copper. The symbol Cu also comes from the Latin cuprum. The element has been known since prehistoric times."
+      "benefits": "The name derives from the Latin cuprum for Cyprus, the island where the Romans first obtained copper. The symbol Cu also comes from the Latin cuprum. The element has been known since prehistoric times."
     },
     {
       "alloys": "",
@@ -994,7 +994,7 @@
       "vanDelWaalsRadius": "139",
       "yearDiscovered": "1746",
       "minerals": "sphalerite (sulfide), smithsonite (carbonate), calamine (silicate), and franklinite (zinc, manganese, iron oxide)",
-      "history": "The name derives from the German zink of unknown origin. It was first used in prehistoric times, where its compounds were used for healing wounds and sore eyes and for making brass. Zinc was recognized as a metal as early as 1374."
+      "benefits": "The name derives from the German zink of unknown origin. It was first used in prehistoric times, where its compounds were used for healing wounds and sore eyes and for making brass. Zinc was recognized as a metal as early as 1374."
     },
     {
       "alloys": "",
@@ -1028,7 +1028,7 @@
       "vanDelWaalsRadius": "187",
       "yearDiscovered": "1875",
       "minerals": "",
-      "history": "The name derives from the Latin gallia for France. It was discovered in zinc blende by the French chemist Paul-Emile Lecoq de Boisbaudran in 1875. It was first isolated in 1878 by Lecoq de Boisbaudran and the French chemist Émile-Clément Jungflesch"
+      "benefits": "The name derives from the Latin gallia for France. It was discovered in zinc blende by the French chemist Paul-Emile Lecoq de Boisbaudran in 1875. It was first isolated in 1878 by Lecoq de Boisbaudran and the French chemist Émile-Clément Jungflesch"
     },
     {
       "alloys": "",
@@ -1062,7 +1062,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1886",
       "minerals": "argyrodite",
-      "history": "The name derives from the Latin germania for Germany. It was discovered and isolated by the German chemist Clemens-Alexander Winkler in 1886 in the mineral argyrodite (GeS2×4Ag2S)."
+      "benefits": "The name derives from the Latin germania for Germany. It was discovered and isolated by the German chemist Clemens-Alexander Winkler in 1886 in the mineral argyrodite (GeS2×4Ag2S)."
     },
     {
       "alloys": "",
@@ -1096,7 +1096,7 @@
       "vanDelWaalsRadius": "185",
       "yearDiscovered": "Ancient",
       "minerals": "arsenopyrite (FeAsS), realgar (AsS) and orpiment (As2S3)",
-      "history": "The name derives from the Latin arsenicium and the Greek arsenikos for masculine or male because the ancients thought that metals were different sexes. Arsenic was known in prehistoric times for its poisonous sulfides. The German scientist and philosopher, Albert von Bollstadt (Albert the Great or Albertus Magnus) is thought to have obtained the metal around 1250."
+      "benefits": "The name derives from the Latin arsenicium and the Greek arsenikos for masculine or male because the ancients thought that metals were different sexes. Arsenic was known in prehistoric times for its poisonous sulfides. The German scientist and philosopher, Albert von Bollstadt (Albert the Great or Albertus Magnus) is thought to have obtained the metal around 1250."
     },
     {
       "alloys": "",
@@ -1130,7 +1130,7 @@
       "vanDelWaalsRadius": "190",
       "yearDiscovered": "1817",
       "minerals": "eucairite (CuAgSe), crooksite (CuThSe) and clausthalite (PbSe)",
-      "history": "The name derives from the Greek Selene, who was the Greek goddess of the Moon because the element is chemically found with tellurium (Tellus was the Roman goddess of the Earth). Selenium was discovered by the Swedish chemist Jöns Jacob Berzelius in 1817, while trying to isolate tellurium in an impure sample."
+      "benefits": "The name derives from the Greek Selene, who was the Greek goddess of the Moon because the element is chemically found with tellurium (Tellus was the Roman goddess of the Earth). Selenium was discovered by the Swedish chemist Jöns Jacob Berzelius in 1817, while trying to isolate tellurium in an impure sample."
     },
     {
       "alloys": "",
@@ -1164,7 +1164,7 @@
       "vanDelWaalsRadius": "185",
       "yearDiscovered": "1826",
       "minerals": "",
-      "history": "The name derives from the Greek bromos for bad stench or bad odour. It was first prepared by the German chemist Carl Löwig in 1825, but it was first publicly announced in 1826 by the French chemist and pharmacist Antoine-Jérôme Balard, and so the discovery is, therefore, credited to him."
+      "benefits": "The name derives from the Greek bromos for bad stench or bad odour. It was first prepared by the German chemist Carl Löwig in 1825, but it was first publicly announced in 1826 by the French chemist and pharmacist Antoine-Jérôme Balard, and so the discovery is, therefore, credited to him."
     },
     {
       "alloys": "",
@@ -1198,7 +1198,7 @@
       "vanDelWaalsRadius": "202",
       "yearDiscovered": "1898",
       "minerals": "",
-      "history": "The name derives from the Greek kryptos for concealed or hidden. It was discovered in liquefied atmospheric air by the Scottish chemist William Ramsay and the English chemist Morris William Travers in 1898. A wavelength in the atomic spectrum of 86Kr is a fundamental standard of length."
+      "benefits": "The name derives from the Greek kryptos for concealed or hidden. It was discovered in liquefied atmospheric air by the Scottish chemist William Ramsay and the English chemist Morris William Travers in 1898. A wavelength in the atomic spectrum of 86Kr is a fundamental standard of length."
     },
     {
       "alloys": "",
@@ -1232,7 +1232,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1861",
       "minerals": "pollucite, leucite, and zinnwaldite",
-      "history": "The name derives from the Latin rubidus for deepest red  because of the two deep red lines in its spectra. Rubidium was discovered in the mineral lepidolite (KLi2Al(Al, Si)3O10(F, OH)2) by the German chemist Robert Wilhelm Bunsen and the German physicist Gustav-Robert Kirchoff in 1861. Bunsen isolated rubidium in 1863."
+      "benefits": "The name derives from the Latin rubidus for deepest red  because of the two deep red lines in its spectra. Rubidium was discovered in the mineral lepidolite (KLi2Al(Al, Si)3O10(F, OH)2) by the German chemist Robert Wilhelm Bunsen and the German physicist Gustav-Robert Kirchoff in 1861. Bunsen isolated rubidium in 1863."
     },
     {
       "alloys": "",
@@ -1266,7 +1266,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1790",
       "minerals": "",
-      "history": "The name derives from Strontian, a town in Scotland. The mineral strontianite is found in mines in Strontian. The element was discovered in 1792 by the Scottish chemist and physician Thomas Charles Hope, who observed the brilliant red flame colour of strontium. It was first isolated by the English chemist Humphry Davy in 1808."
+      "benefits": "The name derives from Strontian, a town in Scotland. The mineral strontianite is found in mines in Strontian. The element was discovered in 1792 by the Scottish chemist and physician Thomas Charles Hope, who observed the brilliant red flame colour of strontium. It was first isolated by the English chemist Humphry Davy in 1808."
     },
     {
       "alloys": "",
@@ -1300,7 +1300,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1794",
       "minerals": "",
-      "history": "The name derives from the Swedish village of Ytterby where the mineral gadolinite was found. In 1794, the Finnish chemist Johan Gadolin discovered yttrium in the mineral ytterbite, which was later renamed gadolinite for Gadolin. Gadolin originally called the element ytterbium after ytterbite. The name was subsequently shortened to yttrium, and later another element was given the name ytterbium."
+      "benefits": "The name derives from the Swedish village of Ytterby where the mineral gadolinite was found. In 1794, the Finnish chemist Johan Gadolin discovered yttrium in the mineral ytterbite, which was later renamed gadolinite for Gadolin. Gadolin originally called the element ytterbium after ytterbite. The name was subsequently shortened to yttrium, and later another element was given the name ytterbium."
     },
     {
       "alloys": "",
@@ -1334,7 +1334,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1789",
       "minerals": "zircon (ZrSiO4)",
-      "history": "The name derives from the Arabic zargun for gold-like. It was discovered in zirconia by the German chemist Martin-Heinrich Klaproth in 1789. Zirconium was first isolated by Swedish chemist Jöns Jacob Berzelius in 1824 in an impure state, and finally by the chemists D. Lely, Jr. and L. Hamburger in a pure state in 1914."
+      "benefits": "The name derives from the Arabic zargun for gold-like. It was discovered in zirconia by the German chemist Martin-Heinrich Klaproth in 1789. Zirconium was first isolated by Swedish chemist Jöns Jacob Berzelius in 1824 in an impure state, and finally by the chemists D. Lely, Jr. and L. Hamburger in a pure state in 1914."
     },
     {
       "alloys": "",
@@ -1368,7 +1368,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1801",
       "minerals": "niobite (or columbite), niobite-tantalite, parochlore, and euxenite",
-      "history": "The name derives from the Greek mythological character Niobe, who was the daughter of Tantalus, because the elements niobium and tantalum were originally thought to be identical. Niobium was discovered in a black mineral from America called columbite by the British chemist and manufacturer Charles Hatchett in 1801 and he called the element columbium. In 1809, the English chemist William Hyde Wollaston claimed that columbium and tantalum were identical.Forty years later, the German chemist and pharmacist, Heinrich Rose, determined that they were two different elements in 1846 and gave the name niobium because it was so difficult to distinguish it from tantalum. The name columbium continued to be used in America and niobium in Europe until IUPAC adopted the name niobium in 1949. Niobium was first isolated by the chemist C. W. Blomstrand in 1846."
+      "benefits": "The name derives from the Greek mythological character Niobe, who was the daughter of Tantalus, because the elements niobium and tantalum were originally thought to be identical. Niobium was discovered in a black mineral from America called columbite by the British chemist and manufacturer Charles Hatchett in 1801 and he called the element columbium. In 1809, the English chemist William Hyde Wollaston claimed that columbium and tantalum were identical.Forty years later, the German chemist and pharmacist, Heinrich Rose, determined that they were two different elements in 1846 and gave the name niobium because it was so difficult to distinguish it from tantalum. The name columbium continued to be used in America and niobium in Europe until IUPAC adopted the name niobium in 1949. Niobium was first isolated by the chemist C. W. Blomstrand in 1846."
     },
     {
       "alloys": "",
@@ -1401,7 +1401,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1778",
       "minerals": "hexamer Mo6Cl12",
-      "history": "The name derives from the Greek molybdos for lead. The ancients used the term lead for any black mineral that leaves a mark on paper. Molybdenum was discovered by the Swedish pharmacist and chemist Carl Wilhelm Scheele in 1778. It was first isolated by the Swedish chemist Peter-Jacob Hjelm in 1781."
+      "benefits": "The name derives from the Greek molybdos for lead. The ancients used the term lead for any black mineral that leaves a mark on paper. Molybdenum was discovered by the Swedish pharmacist and chemist Carl Wilhelm Scheele in 1778. It was first isolated by the Swedish chemist Peter-Jacob Hjelm in 1781."
     },
     {
       "alloys": "",
@@ -1435,7 +1435,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1937",
       "minerals": "",
-      "history": "It was isolated by Carlo Perrier and Emilio Segrè in 1937. Technetium was created by bombarding molybdenum atoms with deuterons that had been accelerated by a device called a cyclotron.Today, technetium is produced by bombarding molybdenum-98 with neutrons. Molybdenum-98 becomes molybdenum-99 when it captures a neutron. Molybdenum-99, with a half-life of 65.94 hours, decays into technetium-99 through beta decay. While technetium has never been found to occur naturally on earth, its spectral lines have been observed in S-, M- and N-type stars.Technetium's most stable isotope, technetium-98, has a half-life of about 4,200,000 years. It decays into ruthenium-98 through beta decay."
+      "benefits": "It was isolated by Carlo Perrier and Emilio Segrè in 1937. Technetium was created by bombarding molybdenum atoms with deuterons that had been accelerated by a device called a cyclotron.Today, technetium is produced by bombarding molybdenum-98 with neutrons. Molybdenum-98 becomes molybdenum-99 when it captures a neutron. Molybdenum-99, with a half-life of 65.94 hours, decays into technetium-99 through beta decay. While technetium has never been found to occur naturally on earth, its spectral lines have been observed in S-, M- and N-type stars.Technetium's most stable isotope, technetium-98, has a half-life of about 4,200,000 years. It decays into ruthenium-98 through beta decay."
     },
     {
       "alloys": "",
@@ -1469,7 +1469,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1827",
       "minerals": "",
-      "history": "The name derives from the Latin ruthenia for the old name of Russia. It was discovered in a crude platinum ore by the Russian chemist Gottfried Wilhelm Osann in 1828. Osann thought that he had found three new metals in the sample, pluranium, ruthenium, and polinium. In 1844, Russian chemist Karl Karlovich Klaus was able to show that Osann's mistake was due to the impurity of the sample, and Klaus was able to isolate the ruthenium metal."
+      "benefits": "The name derives from the Latin ruthenia for the old name of Russia. It was discovered in a crude platinum ore by the Russian chemist Gottfried Wilhelm Osann in 1828. Osann thought that he had found three new metals in the sample, pluranium, ruthenium, and polinium. In 1844, Russian chemist Karl Karlovich Klaus was able to show that Osann's mistake was due to the impurity of the sample, and Klaus was able to isolate the ruthenium metal."
     },
     {
       "alloys": "",
@@ -1503,7 +1503,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1803",
       "minerals": " bowieite and rhodplumsit",
-      "history": "The name derives from the Greek rhodon for rose because of the rose color of dilute solutions of its salts. It was discovered by the English chemist and physicist William Hyde Wollaston in 1803 in a crude platinum ore."
+      "benefits": "The name derives from the Greek rhodon for rose because of the rose color of dilute solutions of its salts. It was discovered by the English chemist and physicist William Hyde Wollaston in 1803 in a crude platinum ore."
     },
     {
       "alloys": "",
@@ -1537,7 +1537,7 @@
       "vanDelWaalsRadius": "163",
       "yearDiscovered": "1803",
       "minerals": "",
-      "history": "The name derives from the second largest asteroid of the solar system Pallas (named after the goddess of wisdom and arts—Pallas Athene). The element was discovered by the English chemist and physicist William Hyde Wollaston in 1803, one year after the discovery of Pallas by the German astronomer Wilhelm Olbers in 1802. The discovery was originally published anonymously by Wollaston to obtain priority, while not disclosing any details about his preparation."
+      "benefits": "The name derives from the second largest asteroid of the solar system Pallas (named after the goddess of wisdom and arts—Pallas Athene). The element was discovered by the English chemist and physicist William Hyde Wollaston in 1803, one year after the discovery of Pallas by the German astronomer Wilhelm Olbers in 1802. The discovery was originally published anonymously by Wollaston to obtain priority, while not disclosing any details about his preparation."
     },
     {
       "alloys": "",
@@ -1571,7 +1571,7 @@
       "vanDelWaalsRadius": "172",
       "yearDiscovered": "Ancient",
       "minerals": "",
-      "history": "The name derives from the Anglo-Saxon seofor and siolfur, which is of unknown origin. The symbol Ag derives from the Latin argentum and Sanskrit argunas from bright. Silver was known in prehistoric times."
+      "benefits": "The name derives from the Anglo-Saxon seofor and siolfur, which is of unknown origin. The symbol Ag derives from the Latin argentum and Sanskrit argunas from bright. Silver was known in prehistoric times."
     },
     {
       "alloys": "",
@@ -1605,7 +1605,7 @@
       "vanDelWaalsRadius": "158",
       "yearDiscovered": "1817",
       "minerals": "",
-      "history": "The name derives from Greek kadmeia for calamine (zinc carbonate), with which it was found as an impurity in nature. It may have been found in furnace flue dust in Thebes, a city in the Boeottia region of central Greece. The mythological king of Phoenicia, Cadmus, founded Thebes and would be a source for the name of the ore. The element was discovered and first isolated by German physician Friedrich Stromeyer in 1817."
+      "benefits": "The name derives from Greek kadmeia for calamine (zinc carbonate), with which it was found as an impurity in nature. It may have been found in furnace flue dust in Thebes, a city in the Boeottia region of central Greece. The mythological king of Phoenicia, Cadmus, founded Thebes and would be a source for the name of the ore. The element was discovered and first isolated by German physician Friedrich Stromeyer in 1817."
     },
     {
       "alloys": "",
@@ -1639,7 +1639,7 @@
       "vanDelWaalsRadius": "193",
       "yearDiscovered": "1863",
       "minerals": "",
-      "history": "The name derives from the term indigo for the indigo-blue line in the element's spark spectrum. It was discovered in 1863 by the German physicist Ferdinand Reich and the German metallurgist Hieronymus Theodor Richter, while examining zinc blende. They isolated indium in 1867."
+      "benefits": "The name derives from the term indigo for the indigo-blue line in the element's spark spectrum. It was discovered in 1863 by the German physicist Ferdinand Reich and the German metallurgist Hieronymus Theodor Richter, while examining zinc blende. They isolated indium in 1867."
     },
     {
       "alloys": "",
@@ -1673,7 +1673,7 @@
       "vanDelWaalsRadius": "217",
       "yearDiscovered": "Ancient",
       "minerals": "",
-      "history": "The name derives from the Anglo-Saxon tin of unknown origin. The symbol Sn is derived from Latin stannum for alloys containing lead. The element was known in prehistoric times."
+      "benefits": "The name derives from the Anglo-Saxon tin of unknown origin. The symbol Sn is derived from Latin stannum for alloys containing lead. The element was known in prehistoric times."
     },
     {
       "alloys": "",
@@ -1707,7 +1707,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "Ancient",
       "minerals": "stibnite (Sb2S3), pyrargyrite (Ag3SbS3), zinkenite, jamesonite, and boulangerite.",
-      "history": "The name derives from the Greek, anti + monos for not alone or not one because it was found in many compounds. The symbol Sb comes from stibium, which is derived from the Greek stibi for mark because it was used for blackening eyebrows and eyelashes. The minerals stibnite (Sb2S3) and stibine (SbH3) are two of more than one hundred mineral species, which were known in the ancient world."
+      "benefits": "The name derives from the Greek, anti + monos for not alone or not one because it was found in many compounds. The symbol Sb comes from stibium, which is derived from the Greek stibi for mark because it was used for blackening eyebrows and eyelashes. The minerals stibnite (Sb2S3) and stibine (SbH3) are two of more than one hundred mineral species, which were known in the ancient world."
     },
     {
       "alloys": "",
@@ -1741,7 +1741,7 @@
       "vanDelWaalsRadius": "206",
       "yearDiscovered": "1782",
       "minerals": "telluride of gold (calaverite)",
-      "history": "The name derives from the Latin Tellus, who was the Roman goddess of the Earth. Tellurium was discovered by Franz Joseph Müller von Reichenstein in 1782 and overlooked for 15 years until it was isolated by the German chemist Martin-Heinrich Klaproth in 1798. The Hungarian chemist Paul Kitaibel independently discovered tellurium in 1789, prior to Klaproth's work but after von Reichenstein."
+      "benefits": "The name derives from the Latin Tellus, who was the Roman goddess of the Earth. Tellurium was discovered by Franz Joseph Müller von Reichenstein in 1782 and overlooked for 15 years until it was isolated by the German chemist Martin-Heinrich Klaproth in 1798. The Hungarian chemist Paul Kitaibel independently discovered tellurium in 1789, prior to Klaproth's work but after von Reichenstein."
     },
     {
       "alloys": "",
@@ -1775,7 +1775,7 @@
       "vanDelWaalsRadius": "198",
       "yearDiscovered": "1811",
       "minerals": "lautarite, Ca(IO3)2, and dietzeite, 7Ca(IO3)2·8CaCrO4",
-      "history": "The name derives from the Greek iodes for violet because of its violet vapours. Iodine was discovered in seaweed by the French chemist Bernard Courtois in 1811, and named by the French chemist Louis-Joseph Gay-Lussac, when he proved it was an element in 1814."
+      "benefits": "The name derives from the Greek iodes for violet because of its violet vapours. Iodine was discovered in seaweed by the French chemist Bernard Courtois in 1811, and named by the French chemist Louis-Joseph Gay-Lussac, when he proved it was an element in 1814."
     },
     {
       "alloys": "",
@@ -1809,7 +1809,7 @@
       "vanDelWaalsRadius": "216",
       "yearDiscovered": "1898",
       "minerals": "",
-      "history": "The name derives from the Greek xenos for the stranger. It was discovered by the Scottish chemist William Ramsay and the English chemist Morris William Travers in 1898 in a liquefied air sample."
+      "benefits": "The name derives from the Greek xenos for the stranger. It was discovered by the Scottish chemist William Ramsay and the English chemist Morris William Travers in 1898 in a liquefied air sample."
     },
     {
       "alloys": "",
@@ -1843,7 +1843,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1860",
       "minerals": " lepidolite, pollucte",
-      "history": "The name derives from the Latin caesius for sky blue, which was the colour of the caesium line in the spectroscope. Caesium was discovered by the German chemist Robert Wilhelm Bunsen and the German physicist Gustav Robert Kirchhoff in 1860. It was first isolated by the German chemist Carl Setterberg in 1882."
+      "benefits": "The name derives from the Latin caesius for sky blue, which was the colour of the caesium line in the spectroscope. Caesium was discovered by the German chemist Robert Wilhelm Bunsen and the German physicist Gustav Robert Kirchhoff in 1860. It was first isolated by the German chemist Carl Setterberg in 1882."
     },
     {
       "alloys": "",
@@ -1877,7 +1877,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1808",
       "minerals": "",
-      "history": "Barium was first isolated by Sir Humphry Davy, an English chemist, in 1808 through the electrolysis of molten baryta (BaO). Barium is never found free in nature since it reacts with oxygen in the air, forming barium oxide (BaO), and with water, forming barium hydroxide (Ba(OH)2) and hydrogen gas (H2). Barium is most commonly found as the mineral barite (BaSO4) and witherite (BaCO3) and is primarily produced through the electrolysis of barium chloride (BaCl2)."
+      "benefits": "Barium was first isolated by Sir Humphry Davy, an English chemist, in 1808 through the electrolysis of molten baryta (BaO). Barium is never found free in nature since it reacts with oxygen in the air, forming barium oxide (BaO), and with water, forming barium hydroxide (Ba(OH)2) and hydrogen gas (H2). Barium is most commonly found as the mineral barite (BaSO4) and witherite (BaCO3) and is primarily produced through the electrolysis of barium chloride (BaCl2)."
     },
     {
       "alloys": "",
@@ -1911,7 +1911,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1839",
       "minerals": "cerite, monazite, allanite, and bastnasite",
-      "history": "The name derives from the Greek lanthanein for to be hidden or to escape notice because it hid in cerium ore and was difficult to separate from that rare earth mineral. Lanthanum was discovered by the Swedish surgeon and chemist Carl-Gustav Mosander in 1839. In 1842, Mosander separated his lanthanium sample into two oxides; for one of these he retained the name lanthanum and for the other he gave the name didymium (or twin)."
+      "benefits": "The name derives from the Greek lanthanein for to be hidden or to escape notice because it hid in cerium ore and was difficult to separate from that rare earth mineral. Lanthanum was discovered by the Swedish surgeon and chemist Carl-Gustav Mosander in 1839. In 1842, Mosander separated his lanthanium sample into two oxides; for one of these he retained the name lanthanum and for the other he gave the name didymium (or twin)."
     },
     {
       "alloys": "",
@@ -1945,7 +1945,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1803",
       "minerals": "allanite (also known as orthite), monazite, bastnasite, cerite, and samarskite",
-      "history": "The name derives from the planetoid Ceres, which was discovered by the Italian astronomer Giuseppe Piazzi in 1801 and named for Ceres, the Roman goddess of agriculture and harvest. Two years later, the element cerium was discovered by the German chemist Martin-Heinrich Klaproth, who called it ochroeite earth because of its yellow colour. Cerium was independently discovered at the same time by the Swedish chemist Jöns Jacob Berzelius and the Swedish mineralogist Wilhelm von Hisinger, who called it ceria. It was first isolated in 1875 by the American mineralogist and chemist William Frances Hillebrand and the American chemist Thomas H. Norton."
+      "benefits": "The name derives from the planetoid Ceres, which was discovered by the Italian astronomer Giuseppe Piazzi in 1801 and named for Ceres, the Roman goddess of agriculture and harvest. Two years later, the element cerium was discovered by the German chemist Martin-Heinrich Klaproth, who called it ochroeite earth because of its yellow colour. Cerium was independently discovered at the same time by the Swedish chemist Jöns Jacob Berzelius and the Swedish mineralogist Wilhelm von Hisinger, who called it ceria. It was first isolated in 1875 by the American mineralogist and chemist William Frances Hillebrand and the American chemist Thomas H. Norton."
     },
     {
       "alloys": "",
@@ -1979,7 +1979,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1885",
       "minerals": "Monazite and bastnasite",
-      "history": "The name derives from the Greek prasios for green and didymos for twin because of the pale green salts it forms. Praseodymium was discovered by the Austrian chemist Carl Auer (Baron von Welsbach) in 1885, who separated it and the element neodymium from a didymium sample (didymium had previously been thought to be a separate element)."
+      "benefits": "The name derives from the Greek prasios for green and didymos for twin because of the pale green salts it forms. Praseodymium was discovered by the Austrian chemist Carl Auer (Baron von Welsbach) in 1885, who separated it and the element neodymium from a didymium sample (didymium had previously been thought to be a separate element)."
     },
     {
       "alloys": "",
@@ -2013,7 +2013,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1885",
       "minerals": "",
-      "history": "The name derives from the Greek neos for new and didymos for twin. It was discovered by the Swedish surgeon and chemist Carl Gustav Mosander in 1841, who called it didymium (or twin) because of its similarity to lanthanum, which he had previously discovered two years earlier. In 1885, the Austrian chemist Carl Auer (Baron von Welsbach) separated didymium into two elements, one of which he called neodymium (or new twin)."
+      "benefits": "The name derives from the Greek neos for new and didymos for twin. It was discovered by the Swedish surgeon and chemist Carl Gustav Mosander in 1841, who called it didymium (or twin) because of its similarity to lanthanum, which he had previously discovered two years earlier. In 1885, the Austrian chemist Carl Auer (Baron von Welsbach) separated didymium into two elements, one of which he called neodymium (or new twin)."
     },
     {
       "alloys": "",
@@ -2047,7 +2047,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1947",
       "minerals": "spectrum of the star HR465 in Andromeda",
-      "history": "The existence of promethium was predicted by Bohuslav Brauner, a Czech chemist, in 1902. Several groups claimed to have produced the element, but they could not confirm their discoveries because of the difficulty of separating promethium from other elements. Proof of the existence of promethium was obtained by Jacob A. Marinsky, Lawrence E. Glendenin and Charles D. Coryell in 1944. Too busy with defense related research in World War II, they did not claim their discovery until 1946. They discovered promethium while analyzing the byproducts of uranium fission that were produced in a nuclear reactor located at Clinton Laboratories in Oak Ridge, Tennessee. Today, Clinton Laboratories is known as Oak Ridge National Laboratory.Today, promethium is still recovered from the byproducts of uranium fission. It can also be produced by bombarding neodymium-146 with neutrons. Neodymium-146 becomes neodymium-147 when it captures a neutron. Neodymium-147, with a half-life of 11 days, decays into promethium-147 through beta decay. Promethium does not occur naturally on earth, although it has been detected in the spectrum of a star in the constellation Andromeda. Promethium's most stable isotope, promethium-145, has a half-life of 17.7 years. It decays into neodymium-145 through electron capture."
+      "benefits": "The existence of promethium was predicted by Bohuslav Brauner, a Czech chemist, in 1902. Several groups claimed to have produced the element, but they could not confirm their discoveries because of the difficulty of separating promethium from other elements. Proof of the existence of promethium was obtained by Jacob A. Marinsky, Lawrence E. Glendenin and Charles D. Coryell in 1944. Too busy with defense related research in World War II, they did not claim their discovery until 1946. They discovered promethium while analyzing the byproducts of uranium fission that were produced in a nuclear reactor located at Clinton Laboratories in Oak Ridge, Tennessee. Today, Clinton Laboratories is known as Oak Ridge National Laboratory.Today, promethium is still recovered from the byproducts of uranium fission. It can also be produced by bombarding neodymium-146 with neutrons. Neodymium-146 becomes neodymium-147 when it captures a neutron. Neodymium-147, with a half-life of 11 days, decays into promethium-147 through beta decay. Promethium does not occur naturally on earth, although it has been detected in the spectrum of a star in the constellation Andromeda. Promethium's most stable isotope, promethium-145, has a half-life of 17.7 years. It decays into neodymium-145 through electron capture."
     },
     {
       "alloys": "",
@@ -2081,7 +2081,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1853",
       "minerals": "monazite and bastnasite",
-      "history": "The name derives from the mineral samarskite, in which it was found and that had been named for Colonel Samarski, a Russian mine official. Samarium was originally discovered in 1878 by the Swiss chemist Marc Delafontaine, who called it decipium. It was also discovered by the French chemist Paul-Emile Lecoq de Boisbaudran in 1879. In 1881, Delafontaine determined that his decipium could be resolved into two elements, one of which was identical to Boisbaudran's samarium. In 1901, the French chemist Eugène-Anatole Demarçay showed that this samarium earth also contained europium."
+      "benefits": "The name derives from the mineral samarskite, in which it was found and that had been named for Colonel Samarski, a Russian mine official. Samarium was originally discovered in 1878 by the Swiss chemist Marc Delafontaine, who called it decipium. It was also discovered by the French chemist Paul-Emile Lecoq de Boisbaudran in 1879. In 1881, Delafontaine determined that his decipium could be resolved into two elements, one of which was identical to Boisbaudran's samarium. In 1901, the French chemist Eugène-Anatole Demarçay showed that this samarium earth also contained europium."
     },
     {
       "alloys": "",
@@ -2115,7 +2115,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1901",
       "minerals": "",
-      "history": "The name derives from the continent of Europe. It was separated from the mineral samaria in magnesium- samarium nitrate by the French chemist Eugène-Anatole Demarçay in 1896. It was also first isolated by Demarçay in 1901."
+      "benefits": "The name derives from the continent of Europe. It was separated from the mineral samaria in magnesium- samarium nitrate by the French chemist Eugène-Anatole Demarçay in 1896. It was also first isolated by Demarçay in 1901."
     },
     {
       "alloys": "",
@@ -2149,7 +2149,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1880",
       "minerals": "",
-      "history": "The name derives from the mineral gadolinite, in which it was found, and that had been named for the Finnish rare earth chemist Johan Gadolin. Gadolinium was discovered by the Swiss chemist Jean-Charles Galissard de Marignac in 1886, who produced a white oxide in a samarskite mineral. In 1886, the French chemist Paul-Emile Lecoq de Boisbaudran gave the name gadolinium."
+      "benefits": "The name derives from the mineral gadolinite, in which it was found, and that had been named for the Finnish rare earth chemist Johan Gadolin. Gadolinium was discovered by the Swiss chemist Jean-Charles Galissard de Marignac in 1886, who produced a white oxide in a samarskite mineral. In 1886, the French chemist Paul-Emile Lecoq de Boisbaudran gave the name gadolinium."
     },
     {
       "alloys": "",
@@ -2183,7 +2183,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1843",
       "minerals": "",
-      "history": "The name derives from the village of Ytterby in Sweden, where the mineral ytterbite (the source of terbium) was first found. Terbium was discovered by the Swedish surgeon and chemist Carl-Gustav Mosander in 1843 in an yttrium salt, which he resolved into three elements. He called one yttrium, a rose-colored salt he called terbium, and a deep-yellow peroxide he called erbium. In 1862, the Swiss chemist Marc Delafontaine reexamined yttrium and found the yellow peroxide. Because the name erbium had now been assigned to the rose-colored oxide, he reintroduced the name terbium for the yellow peroxide. Thus the original names given to erbium and terbium samples are now switched"
+      "benefits": "The name derives from the village of Ytterby in Sweden, where the mineral ytterbite (the source of terbium) was first found. Terbium was discovered by the Swedish surgeon and chemist Carl-Gustav Mosander in 1843 in an yttrium salt, which he resolved into three elements. He called one yttrium, a rose-colored salt he called terbium, and a deep-yellow peroxide he called erbium. In 1862, the Swiss chemist Marc Delafontaine reexamined yttrium and found the yellow peroxide. Because the name erbium had now been assigned to the rose-colored oxide, he reintroduced the name terbium for the yellow peroxide. Thus the original names given to erbium and terbium samples are now switched"
     },
     {
       "alloys": "",
@@ -2217,7 +2217,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1886",
       "minerals": "",
-      "history": "The name derives from the Greek dysprositos for hard to get at, owing to the difficulty in separating this rare earth element from a holmium mineral in which it was found. It was discovered by the Swiss chemist Marc Delafontaine in the mineral samarskite in 1878 and called philippia. Philippia was subsequently thought to be a mixture of terbium and yttrium. It was later rediscovered in a holmium sample by the French chemist Paul-Emile Lecoq de Boisbaudran in 1886, who was then credited with the discovery. Dysprosium was first isolated by the French chemist Georges Urbain in 1906."
+      "benefits": "The name derives from the Greek dysprositos for hard to get at, owing to the difficulty in separating this rare earth element from a holmium mineral in which it was found. It was discovered by the Swiss chemist Marc Delafontaine in the mineral samarskite in 1878 and called philippia. Philippia was subsequently thought to be a mixture of terbium and yttrium. It was later rediscovered in a holmium sample by the French chemist Paul-Emile Lecoq de Boisbaudran in 1886, who was then credited with the discovery. Dysprosium was first isolated by the French chemist Georges Urbain in 1906."
     },
     {
       "alloys": "",
@@ -2251,7 +2251,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1878",
       "minerals": "",
-      "history": "The name derives from the Latin holmia for Stockholm. It was discovered in erbia earth by the Swiss chemist J. L. Soret in 1878, who referred to it as element X. It was later independently discovered by the Swedish chemist Per Theodor Cleve in 1879. It was first isolated in 1911 by Homberg, who proposed the name holmium either to recognize the discoverer Per Cleve, who was from Stockholm, or perhaps to establish his own name in history."
+      "benefits": "The name derives from the Latin holmia for Stockholm. It was discovered in erbia earth by the Swiss chemist J. L. Soret in 1878, who referred to it as element X. It was later independently discovered by the Swedish chemist Per Theodor Cleve in 1879. It was first isolated in 1911 by Homberg, who proposed the name holmium either to recognize the discoverer Per Cleve, who was from Stockholm, or perhaps to establish his own name in history."
     },
     {
       "alloys": "",
@@ -2285,7 +2285,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1842",
       "minerals": " xenotime (YPO4) and euxenite ((Y, Ca, Er, La, Ce, U, Th)(Nb, Ta, Ti)2O6)",
-      "history": "The name derives from the Swedish town of Ytterby, where the ore gadolinite (in which it was found) was first mined. Erbium was discovered by the Swedish surgeon and chemist Carl-Gustav Mosander in 1843 in a yttrium sample. He separated the yttrium into yttrium, a rose-coloured salt he called terbium and a deep-yellow peroxide that he called erbium."
+      "benefits": "The name derives from the Swedish town of Ytterby, where the ore gadolinite (in which it was found) was first mined. Erbium was discovered by the Swedish surgeon and chemist Carl-Gustav Mosander in 1843 in a yttrium sample. He separated the yttrium into yttrium, a rose-coloured salt he called terbium and a deep-yellow peroxide that he called erbium."
     },
     {
       "alloys": "",
@@ -2319,7 +2319,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1879",
       "minerals": "",
-      "history": "The name derives from Thule, the earliest name for the northernmost part of the civilized world—Scandinavia. It was discovered in 1879 by the Swedish chemist Per Theodor Cleve in a sample of erbium mineral. Thulium was first isolated by the American chemist Charles James in 1911."
+      "benefits": "The name derives from Thule, the earliest name for the northernmost part of the civilized world—Scandinavia. It was discovered in 1879 by the Swedish chemist Per Theodor Cleve in a sample of erbium mineral. Thulium was first isolated by the American chemist Charles James in 1911."
     },
     {
       "alloys": "",
@@ -2353,7 +2353,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1878",
       "minerals": " gadolinite ((Ce, La, Nd, Y)2FeBe2Si2O10), monazite sand ((Ce, La, Th, Nd, Y)PO4),",
-      "history": "The name derives from the Swedish village of Ytterby where the mineral ytterbite (the source of ytterbium) was originally found. It was discovered by the Swiss chemist Jean-Charles Galissard de Marignac in 1878 in erbium nitrate from gadolinite (ytterbite renamed)."
+      "benefits": "The name derives from the Swedish village of Ytterby where the mineral ytterbite (the source of ytterbium) was originally found. It was discovered by the Swiss chemist Jean-Charles Galissard de Marignac in 1878 in erbium nitrate from gadolinite (ytterbite renamed)."
     },
     {
       "alloys": "",
@@ -2387,7 +2387,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1907",
       "minerals": "",
-      "history": "The name derives from Lutetia, the ancient name for the city of Paris. The discovery of lutetium is credited to the French chemist Georges Urbain in 1907 although it had been separated earlier and independently by the Austrian chemist Carl Auer (Baron von Welsbach) from an ytterbium sample.<br/>Von Welsbach had named the element cassiopeium after the constellation Cassiopeia. However, because Urbain published his results before Auer, his name for the element was adopted by IUPAC in 1949."
+      "benefits": "The name derives from Lutetia, the ancient name for the city of Paris. The discovery of lutetium is credited to the French chemist Georges Urbain in 1907 although it had been separated earlier and independently by the Austrian chemist Carl Auer (Baron von Welsbach) from an ytterbium sample.<br/>Von Welsbach had named the element cassiopeium after the constellation Cassiopeia. However, because Urbain published his results before Auer, his name for the element was adopted by IUPAC in 1949."
     },
     {
       "alloys": "",
@@ -2421,7 +2421,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1923",
       "minerals": "",
-      "history": "The name derives from the Latin hafnia for Copenhagen. An element named celtium was erroneously claimed to have been discovered in 1911 by the French chemist Georges Urbain in rare earth samples, until the Danish physicist Niels Bohr, predicted hafnium's properties using his theory of electronic configuration of the elements. Bohr argued that hafnium would not be a rare earth element, but would be found in zirconium ore. Hafnium was discovered by the Dutch physicist Dirk Coster and the Hungarian physicist George von Hevesy in 1923, while working at Bohr's Institute in Copenhagen."
+      "benefits": "The name derives from the Latin hafnia for Copenhagen. An element named celtium was erroneously claimed to have been discovered in 1911 by the French chemist Georges Urbain in rare earth samples, until the Danish physicist Niels Bohr, predicted hafnium's properties using his theory of electronic configuration of the elements. Bohr argued that hafnium would not be a rare earth element, but would be found in zirconium ore. Hafnium was discovered by the Dutch physicist Dirk Coster and the Hungarian physicist George von Hevesy in 1923, while working at Bohr's Institute in Copenhagen."
     },
     {
       "alloys": "",
@@ -2455,7 +2455,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1802",
       "minerals": "",
-      "history": "The name derives from the Greek mythological character Tantalus who was banished to Hades, the region of lost souls where he was placed up to his chin in water, which receded whenever he tried to drink it, and under branches of fruit, which drew back whenever he tried to pick their fruit. This name was selected because of the insolubility of tantalum in acids; thus, when placed in the midst of acids, it is incapable of taking any of them up. Tantalum was discovered by the Swedish chemist and mineralogist Anders- Gustav Ekeberg in 1802"
+      "benefits": "The name derives from the Greek mythological character Tantalus who was banished to Hades, the region of lost souls where he was placed up to his chin in water, which receded whenever he tried to drink it, and under branches of fruit, which drew back whenever he tried to pick their fruit. This name was selected because of the insolubility of tantalum in acids; thus, when placed in the midst of acids, it is incapable of taking any of them up. Tantalum was discovered by the Swedish chemist and mineralogist Anders- Gustav Ekeberg in 1802"
     },
     {
       "alloys": "",
@@ -2489,7 +2489,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1783",
       "minerals": "wolframite ((Fe, Mn)WO4), scheelite (CaWO4)",
-      "history": "The name derives from the Swedish tungsten for heavy stone. The symbol W derives from the German wolfram, which was found with tin and interfered with the smelting of tin. It was said to eat up tin like a wolf eats up sheep. The element was discovered by the Swedish pharmacist and chemist Carl-Wilhelm Scheele in 1781. Tungsten metal was first isolated by the Spanish chemists Fausto Elhuyar and his brother Juan José in 1783."
+      "benefits": "The name derives from the Swedish tungsten for heavy stone. The symbol W derives from the German wolfram, which was found with tin and interfered with the smelting of tin. It was said to eat up tin like a wolf eats up sheep. The element was discovered by the Swedish pharmacist and chemist Carl-Wilhelm Scheele in 1781. Tungsten metal was first isolated by the Spanish chemists Fausto Elhuyar and his brother Juan José in 1783."
     },
     {
       "alloys": "",
@@ -2523,7 +2523,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1925",
       "minerals": "",
-      "history": "The name derives from the Latin rhenus for the Rhine river in Germany. Rhenium was discovered by x-ray spectroscopy in 1925 by German chemists Walter Noddack, Ida Tacke, and Otto Berg."
+      "benefits": "The name derives from the Latin rhenus for the Rhine river in Germany. Rhenium was discovered by x-ray spectroscopy in 1925 by German chemists Walter Noddack, Ida Tacke, and Otto Berg."
     },
     {
       "alloys": "",
@@ -2557,7 +2557,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1803",
       "minerals": "",
-      "history": "The name derives from the Greek osme for smell because of the sharp odor of its volatile oxide. Both osmium and iridium were discovered simultaneously in a crude platinum ore by the English chemist Smithson Tennant in 1803."
+      "benefits": "The name derives from the Greek osme for smell because of the sharp odor of its volatile oxide. Both osmium and iridium were discovered simultaneously in a crude platinum ore by the English chemist Smithson Tennant in 1803."
     },
     {
       "alloys": "",
@@ -2591,7 +2591,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1803",
       "minerals": "",
-      "history": "The name derives from the Latin Iris, the Greek goddess of rainbows, because of the variety of colours in the element's salt solutions. Iridium and osmium were both discovered in a crude platinum ore in 1803 by the English chemist Smithson Tennant. Iridium was discovered independently by the French chemist H. V. Collet-Descotils, who actually published his paper one month before Tennant, but Tennant is given credit for the discovery, perhaps because he alone also found osmium in the ore."
+      "benefits": "The name derives from the Latin Iris, the Greek goddess of rainbows, because of the variety of colours in the element's salt solutions. Iridium and osmium were both discovered in a crude platinum ore in 1803 by the English chemist Smithson Tennant. Iridium was discovered independently by the French chemist H. V. Collet-Descotils, who actually published his paper one month before Tennant, but Tennant is given credit for the discovery, perhaps because he alone also found osmium in the ore."
     },
     {
       "alloys": "",
@@ -2625,7 +2625,7 @@
       "vanDelWaalsRadius": "175",
       "yearDiscovered": "Ancient",
       "minerals": "sperrylite (PtAs2)",
-      "history": "The name derives from the Spanish platina for silver. In 1735, the Spanish astronomer Antonio de Ulloa found platinum in Peru, South America. In 1741, the English metallurgist Charles Wood found platinum from Colombia, South America. In 1750, the English physician William Brownrigg prepared purified platinum metal."
+      "benefits": "The name derives from the Spanish platina for silver. In 1735, the Spanish astronomer Antonio de Ulloa found platinum in Peru, South America. In 1741, the English metallurgist Charles Wood found platinum from Colombia, South America. In 1750, the English physician William Brownrigg prepared purified platinum metal."
     },
     {
       "alloys": "",
@@ -2659,7 +2659,7 @@
       "vanDelWaalsRadius": "166",
       "yearDiscovered": "Ancient",
       "minerals": "quartz (SiO2), calcite (CaCO3)",
-      "history": "The name derives from the Sanskrit jval for shine, the Teutonic word gulth for shining metal, and the Anglo-Saxon gold of unknown origin. The symbol Au derives from the Latin aurum, for Aurora, the goddess of dawn. Gold was known and highly valued in prehistoric times."
+      "benefits": "The name derives from the Sanskrit jval for shine, the Teutonic word gulth for shining metal, and the Anglo-Saxon gold of unknown origin. The symbol Au derives from the Latin aurum, for Aurora, the goddess of dawn. Gold was known and highly valued in prehistoric times."
     },
     {
       "alloys": "",
@@ -2693,7 +2693,7 @@
       "vanDelWaalsRadius": "155",
       "yearDiscovered": "Ancient",
       "minerals": "",
-      "history": "The name derives from the Roman god Mercury, the nimble messenger of the gods, because the ancients used that name for the element known from prehistoric times. The symbol Hg derives from the Greek hydrargyrum for liquid silver or quick silver"
+      "benefits": "The name derives from the Roman god Mercury, the nimble messenger of the gods, because the ancients used that name for the element known from prehistoric times. The symbol Hg derives from the Greek hydrargyrum for liquid silver or quick silver"
     },
     {
       "alloys": "",
@@ -2727,7 +2727,7 @@
       "vanDelWaalsRadius": "196",
       "yearDiscovered": "1861",
       "minerals": "",
-      "history": "The name derives from the Greek thallos for green shoot or twig because of the bright green line in its spectrum. Thallium was discovered by the English physicist and chemist William Crookes in 1861. Metallic thallium was first isolated by the French chemist Claude-Auguste Lamy in 1862."
+      "benefits": "The name derives from the Greek thallos for green shoot or twig because of the bright green line in its spectrum. Thallium was discovered by the English physicist and chemist William Crookes in 1861. Metallic thallium was first isolated by the French chemist Claude-Auguste Lamy in 1862."
     },
     {
       "alloys": "",
@@ -2761,7 +2761,7 @@
       "vanDelWaalsRadius": "202",
       "yearDiscovered": "Ancient",
       "minerals": "",
-      "history": "The name derives from the Anglo-Saxon lead, which is of unknown origin. The element was known from prehistoric times. The chemical symbol Pb is derived from the Latin plumbum."
+      "benefits": "The name derives from the Anglo-Saxon lead, which is of unknown origin. The element was known from prehistoric times. The chemical symbol Pb is derived from the Latin plumbum."
     },
     {
       "alloys": "",
@@ -2795,7 +2795,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "Ancient",
       "minerals": "",
-      "history": "The name derives from the German weisse masse for white mass from the colour of its oxides. The ancients did not distinguish bismuth from lead. The French chemist Claude-Francois Geoffroy showed that bismuth was distinct from lead in 1753"
+      "benefits": "The name derives from the German weisse masse for white mass from the colour of its oxides. The ancients did not distinguish bismuth from lead. The French chemist Claude-Francois Geoffroy showed that bismuth was distinct from lead in 1753"
     },
     {
       "alloys": "",
@@ -2829,7 +2829,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1898",
       "minerals": "",
-      "history": "Polonium was discovered by Marie Sklodowska Curie, a Polish chemist, in 1898. She obtained polonium from pitchblende, a material that contains uranium, after noticing that unrefined pitchblende was more radioactive than the uranium that was separated from it. She reasoned that pitchblende must contain at least one other radioactive element. Curie needed to refine several tons of pitchblende in order to obtain tiny amounts of polonium and radium, another radioactive element discovered by Curie. One ton of uranium ore contains only about 100 micrograms (0.0001 grams) of polonium.Due to its scarcity, polonium is usually produced by bombarding bismuth-209 with neutrons in a nuclear reactor. This forms bismuth-210, which has a half-life of 5 days. Bismuth-210 decays into polonium-210 through beta decay. Milligram amounts of polonium-210 have been produced by this method.<br/>Polonium-210 is a very strong emitter of alpha particles. A single gram of polonium-210 creates 140 Watts of heat energy and is being considered as a lightweight heat source for thermoelectric power for spacecraft. Polonium-210 has a half-life of 138.39 days.<br/>Polonium's most stable isotope, polonium-209, has a half-life of 102 years. It decays into lead-205 through alpha decay. Polonium-209 is available from Oak Ridge National Laboratory at the cost of about $3200 per microcurie."
+      "benefits": "Polonium was discovered by Marie Sklodowska Curie, a Polish chemist, in 1898. She obtained polonium from pitchblende, a material that contains uranium, after noticing that unrefined pitchblende was more radioactive than the uranium that was separated from it. She reasoned that pitchblende must contain at least one other radioactive element. Curie needed to refine several tons of pitchblende in order to obtain tiny amounts of polonium and radium, another radioactive element discovered by Curie. One ton of uranium ore contains only about 100 micrograms (0.0001 grams) of polonium.Due to its scarcity, polonium is usually produced by bombarding bismuth-209 with neutrons in a nuclear reactor. This forms bismuth-210, which has a half-life of 5 days. Bismuth-210 decays into polonium-210 through beta decay. Milligram amounts of polonium-210 have been produced by this method.<br/>Polonium-210 is a very strong emitter of alpha particles. A single gram of polonium-210 creates 140 Watts of heat energy and is being considered as a lightweight heat source for thermoelectric power for spacecraft. Polonium-210 has a half-life of 138.39 days.<br/>Polonium's most stable isotope, polonium-209, has a half-life of 102 years. It decays into lead-205 through alpha decay. Polonium-209 is available from Oak Ridge National Laboratory at the cost of about $3200 per microcurie."
     },
     {
       "alloys": "",
@@ -2863,7 +2863,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1940",
       "minerals": "",
-      "history": "It was produced by Dale R. Carson, K.R. MacKenzie and Emilio Segrè by bombarding an isotope of bismuth, bismuth-209, with alpha particles that had been accelerated in a device called a cyclotron. This created astatine-211 and two free neutrons. This work was conducted at the University of California in 1940."
+      "benefits": "It was produced by Dale R. Carson, K.R. MacKenzie and Emilio Segrè by bombarding an isotope of bismuth, bismuth-209, with alpha particles that had been accelerated in a device called a cyclotron. This created astatine-211 and two free neutrons. This work was conducted at the University of California in 1940."
     },
     {
       "alloys": "",
@@ -2897,7 +2897,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1900",
       "minerals": "",
-      "history": "Radon was discovered by Friedrich Ernst Dorn, a German chemist, in 1900 while studying radium's decay chain. Originally named niton after the Latin word for shining, nitens, radon has been known as radon since 1923"
+      "benefits": "Radon was discovered by Friedrich Ernst Dorn, a German chemist, in 1900 while studying radium's decay chain. Originally named niton after the Latin word for shining, nitens, radon has been known as radon since 1923"
     },
     {
       "alloys": "",
@@ -2931,7 +2931,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1939",
       "minerals": "",
-      "history": "Francium was discovered by Marguerite Catherine Perey, a French chemist, in 1939 while analyzing actinium's decay sequence"
+      "benefits": "Francium was discovered by Marguerite Catherine Perey, a French chemist, in 1939 while analyzing actinium's decay sequence"
     },
     {
       "alloys": "",
@@ -2965,7 +2965,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1898",
       "minerals": "pitchblende ",
-      "history": "Radium was discovered by Marie Sklodowska Curie, a Polish chemist, and Pierre Curie, a French chemist, in 1898. Marie Curie obtained radium from pitchblende, a material that contains uranium, after noticing that unrefined pitchblende was more radioactive than the uranium that was separated from it"
+      "benefits": "Radium was discovered by Marie Sklodowska Curie, a Polish chemist, and Pierre Curie, a French chemist, in 1898. Marie Curie obtained radium from pitchblende, a material that contains uranium, after noticing that unrefined pitchblende was more radioactive than the uranium that was separated from it"
     },
     {
       "alloys": "",
@@ -2999,7 +2999,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1899",
       "minerals": "",
-      "history": "The name derives from the Greek aktis, aktinos, meaning beam or ray. Actinium was discovered in 1899 by André-Louis Debierne, a French chemist, while experimenting with new methods of separating rare earth oxides. Friedrich Otto Giesel independently discovered actinium in 1902."
+      "benefits": "The name derives from the Greek aktis, aktinos, meaning beam or ray. Actinium was discovered in 1899 by André-Louis Debierne, a French chemist, while experimenting with new methods of separating rare earth oxides. Friedrich Otto Giesel independently discovered actinium in 1902."
     },
     {
       "alloys": "",
@@ -3033,7 +3033,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1828",
       "minerals": "thorite (ThSiO4), thorianite (ThO2 + UO2), monazite.",
-      "history": "The name derives from Thor, the Scandinavian god of thunder. It was discovered in the mineral thorite (ThSiO4) by the Swedish chemist Jöns Jacob Berzelius in 1828. Thorium was first isolated by the chemists D. Lely, Jr. and L. Hamburger in 1914."
+      "benefits": "The name derives from Thor, the Scandinavian god of thunder. It was discovered in the mineral thorite (ThSiO4) by the Swedish chemist Jöns Jacob Berzelius in 1828. Thorium was first isolated by the chemists D. Lely, Jr. and L. Hamburger in 1914."
     },
     {
       "alloys": "",
@@ -3067,7 +3067,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1913",
       "minerals": "",
-      "history": "The name derives from the Greek protos (first) for preceding the element actinium, because its most common isotope (231Pa) decays to 227Ac by loss of an alpha particle.<br/>In 1913 the German chemists K. Fajans and O. H. Gohring identified the first isotope of protactinium, 234Pa, and proposed the name brevium because of that isotope's short half-life of 6.7 h. 231Pa, with a longer half-life of 3.25(1)×104 a, was identified in 1918 by the German chemist O. Hahn and the Austrian physicist L. Meitner; and, independently in Britain, by F. Soddy and J. A. Cranston."
+      "benefits": "The name derives from the Greek protos (first) for preceding the element actinium, because its most common isotope (231Pa) decays to 227Ac by loss of an alpha particle.<br/>In 1913 the German chemists K. Fajans and O. H. Gohring identified the first isotope of protactinium, 234Pa, and proposed the name brevium because of that isotope's short half-life of 6.7 h. 231Pa, with a longer half-life of 3.25(1)×104 a, was identified in 1918 by the German chemist O. Hahn and the Austrian physicist L. Meitner; and, independently in Britain, by F. Soddy and J. A. Cranston."
     },
     {
       "alloys": "",
@@ -3101,7 +3101,7 @@
       "vanDelWaalsRadius": "186",
       "yearDiscovered": "1789",
       "minerals": "pitchblende, uraninite (UO2), carnotite (K2(UO2)2VO4·1-3H2O), autunite (Ca(UO2)2(PO4)2·10H2O), from phosphate rock (Ca3(PO4)2), lignite (brown coal), monazite sand ((Ce, La, Th, Nd, Y)PO4), sodium diuranate (Na2U2O7·6H2O)",
-      "history": "The name derives from the planet Uranus, which in Roman mythology was Father Heaven. The German chemist Martin-Heinrich Klaproth discovered the element in 1789, following William Hershel's discovery of the planet in 1781. The metallic uranium was first isolated by the French chemist Eugène-Melchior Peligot in 1841."
+      "benefits": "The name derives from the planet Uranus, which in Roman mythology was Father Heaven. The German chemist Martin-Heinrich Klaproth discovered the element in 1789, following William Hershel's discovery of the planet in 1781. The metallic uranium was first isolated by the French chemist Eugène-Melchior Peligot in 1841."
     },
     {
       "alloys": "",
@@ -3135,7 +3135,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1940",
       "minerals": "23892U + 10n → 23992U → 23993Np + β-",
-      "history": "Neptunium was first produced by Edwin M. McMillian and Philip H. Abelson, working at the University of California, Berkeley, in 1940. They produced neptunium-239, an isotope of neptunium with a half-life of about 2.4 days, by bombarding uranium with slow moving neutrons."
+      "benefits": "Neptunium was first produced by Edwin M. McMillian and Philip H. Abelson, working at the University of California, Berkeley, in 1940. They produced neptunium-239, an isotope of neptunium with a half-life of about 2.4 days, by bombarding uranium with slow moving neutrons."
     },
     {
       "alloys": "",
@@ -3169,7 +3169,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1940",
       "minerals": "",
-      "history": "Plutonium was first produced by Glenn T. Seaborg, Joseph W. Kennedy, Edward M. McMillan and Arthur C. Wohl by bombarding an isotope of uranium, uranium-238, with deuterons that had been accelerated in a device called a cyclotron. This created neptunium-238 and two free neutrons"
+      "benefits": "Plutonium was first produced by Glenn T. Seaborg, Joseph W. Kennedy, Edward M. McMillan and Arthur C. Wohl by bombarding an isotope of uranium, uranium-238, with deuterons that had been accelerated in a device called a cyclotron. This created neptunium-238 and two free neutrons"
     },
     {
       "alloys": "",
@@ -3203,7 +3203,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1944",
       "minerals": "",
-      "history": "Americium was discovered in 1944 by the American scientists Glenn T. Seaborg, Ralph A. James, Leon O. Morgan and Albert Ghiorso. They produced americium by bombarding plutonium-239, an isotope of plutonium, with high energy neutrons. This formed plutonium-240, which was itself bombarded with neutrons. The plutonium-240 changed into plutonium-241, which then decayed into americium-241 through beta decay. This work was carried out at the University of Chicago's Metallurgical Laboratory, now known as Argonne National Laboratory.Americium's most stable isotope, americium-243, has a half-life of about 7,370 years. It decays into neptunium-239 through alpha decay."
+      "benefits": "Americium was discovered in 1944 by the American scientists Glenn T. Seaborg, Ralph A. James, Leon O. Morgan and Albert Ghiorso. They produced americium by bombarding plutonium-239, an isotope of plutonium, with high energy neutrons. This formed plutonium-240, which was itself bombarded with neutrons. The plutonium-240 changed into plutonium-241, which then decayed into americium-241 through beta decay. This work was carried out at the University of Chicago's Metallurgical Laboratory, now known as Argonne National Laboratory.Americium's most stable isotope, americium-243, has a half-life of about 7,370 years. It decays into neptunium-239 through alpha decay."
     },
     {
       "alloys": "",
@@ -3237,7 +3237,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1944",
       "minerals": "",
-      "history": "Curium was first produced by Glenn T. Seaborg, Ralph A. James and Albert Ghiorso, working at the University of California, Berkeley, in 1944. They bombarded atoms of plutonium-239, an isotope of plutonium, with alpha particles that had been accelerated in a device called a cyclotron. This produced atoms of curium-242 and one free neutron. Curium-242 has a half-life of about 163 days and decays into plutonium-238 through alpha decay or decays through spontaneous fission.Curium's most stable isotope, curium-247, has a half-life of about 15,600,000 years. It decays into plutonium-243 through alpha decay."
+      "benefits": "Curium was first produced by Glenn T. Seaborg, Ralph A. James and Albert Ghiorso, working at the University of California, Berkeley, in 1944. They bombarded atoms of plutonium-239, an isotope of plutonium, with alpha particles that had been accelerated in a device called a cyclotron. This produced atoms of curium-242 and one free neutron. Curium-242 has a half-life of about 163 days and decays into plutonium-238 through alpha decay or decays through spontaneous fission.Curium's most stable isotope, curium-247, has a half-life of about 15,600,000 years. It decays into plutonium-243 through alpha decay."
     },
     {
       "alloys": "",
@@ -3271,7 +3271,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1949",
       "minerals": "",
-      "history": "Berkelium was first produced by Stanley G. Thompson, Glenn T. Seaborg, Kenneth Street, Jr. and Albert Ghiorso working at the University of California, Berkeley, in December, 1949. They bombarded an isotope of americium, americium-241, with alpha particles with a device called a cyclotron. This created berkelium-243 and two free neutrons.Berkelium's most stable isotope, berkelium-247, has a half-life of about 1,380 years. It decays into americium-243 through alpha decay.<br/>The first visible amounts of a berkelium compound, berkelium chloride (BkCl3) was produced in 1962 and weighed about 3 billionths of a gram (0.000000003 grams). Berkelium oxychloride (BkOCl), berkelium fluoride (BkF3), berkelium dioxide (BkO2) and berkelium trioxide (BkO3) have been identified and studied with a method known as X-ray diffraction."
+      "benefits": "Berkelium was first produced by Stanley G. Thompson, Glenn T. Seaborg, Kenneth Street, Jr. and Albert Ghiorso working at the University of California, Berkeley, in December, 1949. They bombarded an isotope of americium, americium-241, with alpha particles with a device called a cyclotron. This created berkelium-243 and two free neutrons.Berkelium's most stable isotope, berkelium-247, has a half-life of about 1,380 years. It decays into americium-243 through alpha decay.<br/>The first visible amounts of a berkelium compound, berkelium chloride (BkCl3) was produced in 1962 and weighed about 3 billionths of a gram (0.000000003 grams). Berkelium oxychloride (BkOCl), berkelium fluoride (BkF3), berkelium dioxide (BkO2) and berkelium trioxide (BkO3) have been identified and studied with a method known as X-ray diffraction."
     },
     {
       "alloys": "",
@@ -3305,7 +3305,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1950",
       "minerals": "",
-      "history": "Californium was first produced by Stanley G. Thompson, Glenn T. Seaborg, Kenneth Street, Jr. and Albert Ghiorso working at the University of California, Berkeley, in 1950. They bombarded atoms of curium-242 with helium ions using a device known as a cyclotron. This produced atoms of californium-245, an isotope with a half-life of about 45 minutes, and a free neutron."
+      "benefits": "Californium was first produced by Stanley G. Thompson, Glenn T. Seaborg, Kenneth Street, Jr. and Albert Ghiorso working at the University of California, Berkeley, in 1950. They bombarded atoms of curium-242 with helium ions using a device known as a cyclotron. This produced atoms of californium-245, an isotope with a half-life of about 45 minutes, and a free neutron."
     },
     {
       "alloys": "",
@@ -3339,7 +3339,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1952",
       "minerals": "",
-      "history": "Einsteinium was discovered by a team of scientists led by Albert Ghiorso in 1952 while studying the radioactive debris produced by the detonation of the first hydrogen bomb. The isotope they discovered, einsteinium-253, has a half-life of about 20 days and was produced by combining 15 neutrons with uranium-238, which then underwent seven beta decays. Today, einsteinium is produced though a lengthy chain of nuclear reactions that involves bombarding each isotope in the chain with neutrons and then allowing the resulting isotope to undergo beta decay.Einsteinium's most stable isotope, einsteinium-252, has a half-life of about 471.7 days. It decays into berkelium-248 through alpha decay or into californium-252 through electron capture."
+      "benefits": "Einsteinium was discovered by a team of scientists led by Albert Ghiorso in 1952 while studying the radioactive debris produced by the detonation of the first hydrogen bomb. The isotope they discovered, einsteinium-253, has a half-life of about 20 days and was produced by combining 15 neutrons with uranium-238, which then underwent seven beta decays. Today, einsteinium is produced though a lengthy chain of nuclear reactions that involves bombarding each isotope in the chain with neutrons and then allowing the resulting isotope to undergo beta decay.Einsteinium's most stable isotope, einsteinium-252, has a half-life of about 471.7 days. It decays into berkelium-248 through alpha decay or into californium-252 through electron capture."
     },
     {
       "alloys": "",
@@ -3373,7 +3373,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1952",
       "minerals": "",
-      "history": "Fermium was named after the Italian physicist and Nobel Laureate Enrico Fermi. It is the eight transuranium element of the actinide series discovered. It was discovered by a team of scientists led by Albert Ghiorso in 1952 while studying the radioactive debris produced by the detonation of the first hydrogen bomb. The isotope they discovered, einsteinium-253, has a half-life of about 20 days and was produced by combining 15 neutrons with uranium-238, which then underwent seven beta decays. Today, einsteinium is produced though a lengthy chain of nuclear reactions that involves bombarding each isotope in the chain with neutrons and then allowing the resulting isotope to undergo beta decay.Einsteinium's most stable isotope, einsteinium-252, has a half-life of about 471.7 days. It decays into berkelium-248 through alpha decay or into californium-252 through electron capture."
+      "benefits": "Fermium was named after the Italian physicist and Nobel Laureate Enrico Fermi. It is the eight transuranium element of the actinide series discovered. It was discovered by a team of scientists led by Albert Ghiorso in 1952 while studying the radioactive debris produced by the detonation of the first hydrogen bomb. The isotope they discovered, einsteinium-253, has a half-life of about 20 days and was produced by combining 15 neutrons with uranium-238, which then underwent seven beta decays. Today, einsteinium is produced though a lengthy chain of nuclear reactions that involves bombarding each isotope in the chain with neutrons and then allowing the resulting isotope to undergo beta decay.Einsteinium's most stable isotope, einsteinium-252, has a half-life of about 471.7 days. It decays into berkelium-248 through alpha decay or into californium-252 through electron capture."
     },
     {
       "alloys": "",
@@ -3407,7 +3407,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1955",
       "minerals": "",
-      "history": "Mendelevium is named after Dmitri Mendeleev. It is the ninth transuranium element of the actinide series discovered. Mendelevium was first produced by Stanley G. Thompson, Glenn T. Seaborg, Bernard G. Harvey, Gregory R. Choppin and Albert Ghiorso working at the University of California, Berkeley, in 1955. They bombarded atoms of einsteinium-253 with helium ions using a device known as a cyclotron. This produced atoms of mendelevium-256, an isotope with a half-life of about 77 minutes, and a free neutron.Mendelevium's most stable isotope, mendelevium-258, has a half-life of about 51.5 days. It decays into einsteinium-254 through alpha decay or decays through spontaneous fission"
+      "benefits": "Mendelevium is named after Dmitri Mendeleev. It is the ninth transuranium element of the actinide series discovered. Mendelevium was first produced by Stanley G. Thompson, Glenn T. Seaborg, Bernard G. Harvey, Gregory R. Choppin and Albert Ghiorso working at the University of California, Berkeley, in 1955. They bombarded atoms of einsteinium-253 with helium ions using a device known as a cyclotron. This produced atoms of mendelevium-256, an isotope with a half-life of about 77 minutes, and a free neutron.Mendelevium's most stable isotope, mendelevium-258, has a half-life of about 51.5 days. It decays into einsteinium-254 through alpha decay or decays through spontaneous fission"
     },
     {
       "alloys": "",
@@ -3441,7 +3441,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1957",
       "minerals": "",
-      "history": "Named after Alfred Nobel, inventor of dynamite. In 1957, a group of scientists working at the Nobel Institute of Physics in Stockhlom, Sweden, announced the discovery of a new element. They produced this new element, which they named nobelium, by bombarding a target of curium-244 with ions of carbon-13 with a device called a cyclotron. The isotope they created had a half-life of 10 minutes. In 1958, another group of scientists, Albert Ghiorso, Glenn T. Seaborg, Torbørn Sikkeland and John R. Walton, working at the Lawrence Radiation Laboratory in Berkeley, California, attempted to confirm the Nobel Institute's discovery. They were unable to produce any isotope of nobelium with a half-life of 10 minutes, but were able to produce nobelium-254, with a half-life of three seconds, by bombarding curium-246 with carbon-12. A third group, working at the Joint Institute for Nuclear Research in Dubna, Russia, also could not duplicate the Nobel Institute's work but were able to confirm the Berkeley group's work. Credit for discovering nobelium was eventually given to the scientists working at Lawrence Radiation Laboratory, who decided to keep the name nobelium. Today, the Lawrence Radiation Laboratory is known as the Lawrence Berkeley Laboratory.Nobelium's most stable isotope, nobelium-259, has a half-life of about 58 minutes. It decays into fermium-255 through alpha decay, into mendelevium-259 through electron capture or through spontaneous fission."
+      "benefits": "Named after Alfred Nobel, inventor of dynamite. In 1957, a group of scientists working at the Nobel Institute of Physics in Stockhlom, Sweden, announced the discovery of a new element. They produced this new element, which they named nobelium, by bombarding a target of curium-244 with ions of carbon-13 with a device called a cyclotron. The isotope they created had a half-life of 10 minutes. In 1958, another group of scientists, Albert Ghiorso, Glenn T. Seaborg, Torbørn Sikkeland and John R. Walton, working at the Lawrence Radiation Laboratory in Berkeley, California, attempted to confirm the Nobel Institute's discovery. They were unable to produce any isotope of nobelium with a half-life of 10 minutes, but were able to produce nobelium-254, with a half-life of three seconds, by bombarding curium-246 with carbon-12. A third group, working at the Joint Institute for Nuclear Research in Dubna, Russia, also could not duplicate the Nobel Institute's work but were able to confirm the Berkeley group's work. Credit for discovering nobelium was eventually given to the scientists working at Lawrence Radiation Laboratory, who decided to keep the name nobelium. Today, the Lawrence Radiation Laboratory is known as the Lawrence Berkeley Laboratory.Nobelium's most stable isotope, nobelium-259, has a half-life of about 58 minutes. It decays into fermium-255 through alpha decay, into mendelevium-259 through electron capture or through spontaneous fission."
     },
     {
       "alloys": "",
@@ -3475,7 +3475,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1961",
       "minerals": "",
-      "history": "Named after Lawrence, inventor of the cyclotron. Lawrencium was created by four American scientists, Albert Ghiorso, Torbjørn Sikkeland, Almon E. Larsh and Robert M. Latimer, in March, 1961. Working at the Lawrence Radiation Laboratory in Berkeley, California, the scientists placed three micrograms (0.000003 grams) of californium in the target chamber of a device called a linear accelerator. The scientists used the accelerator to bombard the californium with boron ions. Several different isotopes of lawrencium were created and there is some confusion as to which isotope the group actually detected. Today, the Lawrence Radiation Laboratory is known as the Lawrence Berkeley Laboratory.Lawrencium's most stable isotope, lawrencium-262, has a half-life of about 4 hours. It decays into nobelium-262 through electron capture, mendelevium-258 through alpha decay or through spontaneous fission."
+      "benefits": "Named after Lawrence, inventor of the cyclotron. Lawrencium was created by four American scientists, Albert Ghiorso, Torbjørn Sikkeland, Almon E. Larsh and Robert M. Latimer, in March, 1961. Working at the Lawrence Radiation Laboratory in Berkeley, California, the scientists placed three micrograms (0.000003 grams) of californium in the target chamber of a device called a linear accelerator. The scientists used the accelerator to bombard the californium with boron ions. Several different isotopes of lawrencium were created and there is some confusion as to which isotope the group actually detected. Today, the Lawrence Radiation Laboratory is known as the Lawrence Berkeley Laboratory.Lawrencium's most stable isotope, lawrencium-262, has a half-life of about 4 hours. It decays into nobelium-262 through electron capture, mendelevium-258 through alpha decay or through spontaneous fission."
     },
     {
       "alloys": "",
@@ -3509,7 +3509,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1969",
       "minerals": "",
-      "history": "Scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, first reported the production of rutherfordium in 1964. They bombarded atoms of plutonium-242 with ions of neon-22, forming what they believed to be atoms of rutherfordium-260 and four free neutrons. In 1969, a group of scientists working at the Lawrence Radiation Laboratory, now known as the Lawrence Berkeley Laboratory, in Berkeley, California, attempted to confirm the Dubna group's discovery. Lacking the equipment needed to accelerate neon ions, the Berkeley group, led by Albert Ghiorso, bombarded atoms of californium-248 and californium-249 with ions of carbon-12 and carbon-13, producing atoms of rutherfordium-257, rutherfordium-258, rutherfordium-259 and rutherfordium-261. They were, however, unable to produce the same isotope as the Dubna group. Credit for the discovery of rutherfordium is still under debate.Rutherfordium's most stable isotope, rutherfordium-263, has a half-life of about 10 minutes and decays through spontaneous fission."
+      "benefits": "Scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, first reported the production of rutherfordium in 1964. They bombarded atoms of plutonium-242 with ions of neon-22, forming what they believed to be atoms of rutherfordium-260 and four free neutrons. In 1969, a group of scientists working at the Lawrence Radiation Laboratory, now known as the Lawrence Berkeley Laboratory, in Berkeley, California, attempted to confirm the Dubna group's discovery. Lacking the equipment needed to accelerate neon ions, the Berkeley group, led by Albert Ghiorso, bombarded atoms of californium-248 and californium-249 with ions of carbon-12 and carbon-13, producing atoms of rutherfordium-257, rutherfordium-258, rutherfordium-259 and rutherfordium-261. They were, however, unable to produce the same isotope as the Dubna group. Credit for the discovery of rutherfordium is still under debate.Rutherfordium's most stable isotope, rutherfordium-263, has a half-life of about 10 minutes and decays through spontaneous fission."
     },
     {
       "alloys": "",
@@ -3543,7 +3543,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1967",
       "minerals": "",
-      "history": "Scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, first reported the production of dubnium in 1967. They bombarded atoms of americium-243 with ions of neon-22, forming atoms of dubnium-260 and five free neutrons and atoms of dubnium-261 and four free neutrons. In 1970, a group of scientists working at the Lawrence Radiation Laboratory, now known as the Lawrence Berkeley Laboratory, in Berkeley, California, bombarded atoms of californium-249 with ions of nitrogen-15, forming atoms of dubnium-260 and 4 free neutrons. Credit for the discovery of dubnium is still under debate.Dubnium's most stable isotope, dubnium-268, has a half-life of about 32 hours and decays through spontaneous fission."
+      "benefits": "Scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, first reported the production of dubnium in 1967. They bombarded atoms of americium-243 with ions of neon-22, forming atoms of dubnium-260 and five free neutrons and atoms of dubnium-261 and four free neutrons. In 1970, a group of scientists working at the Lawrence Radiation Laboratory, now known as the Lawrence Berkeley Laboratory, in Berkeley, California, bombarded atoms of californium-249 with ions of nitrogen-15, forming atoms of dubnium-260 and 4 free neutrons. Credit for the discovery of dubnium is still under debate.Dubnium's most stable isotope, dubnium-268, has a half-life of about 32 hours and decays through spontaneous fission."
     },
     {
       "alloys": "",
@@ -3577,7 +3577,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1974",
       "minerals": "",
-      "history": "Seaborgium was first produced by a team of scientists led by Albert Ghiorso working at the Lawrence Berkeley Laboratory in Berkeley, California, in 1974. They created seaborgium by bombarding atoms of californium-249 with ions of oxygen-18 using a machine called the Super-Heavy Ion Linear Accelerator. The collision produced atoms of seaborgium-263 and four free neutrons. Seaborgium-263 is an isotope of seaborgium with a half-life of about 1 second. Three months before the Berkeley group announced their discovery, a team of scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, claimed to have produced seaborgium. Their method involved bombarding atoms of lead-207 and lead-208 with ions of chromium-54 with a device called a cyclotron. They believed that they had produced atoms of seaborgium-259. The Berkeley group's work was confirmed in 1993 and they were credited with the discovery.Seaborgium's most stable isotope, seaborgium-271, has a half-life of about 2.4 minutes. It decays into rutherfordium-267 through alpha decay or decays through spontaneous fission."
+      "benefits": "Seaborgium was first produced by a team of scientists led by Albert Ghiorso working at the Lawrence Berkeley Laboratory in Berkeley, California, in 1974. They created seaborgium by bombarding atoms of californium-249 with ions of oxygen-18 using a machine called the Super-Heavy Ion Linear Accelerator. The collision produced atoms of seaborgium-263 and four free neutrons. Seaborgium-263 is an isotope of seaborgium with a half-life of about 1 second. Three months before the Berkeley group announced their discovery, a team of scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, claimed to have produced seaborgium. Their method involved bombarding atoms of lead-207 and lead-208 with ions of chromium-54 with a device called a cyclotron. They believed that they had produced atoms of seaborgium-259. The Berkeley group's work was confirmed in 1993 and they were credited with the discovery.Seaborgium's most stable isotope, seaborgium-271, has a half-life of about 2.4 minutes. It decays into rutherfordium-267 through alpha decay or decays through spontaneous fission."
     },
     {
       "alloys": "",
@@ -3611,7 +3611,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1976",
       "minerals": "",
-      "history": "First produced in 1976 by scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, and later confirmed in 1981 by Peter Armbruster, Gottfried Münzenber and their team working at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany, bohrium was produced by bombarding a target of bismuth-209 with ions of chromium-54.Bohrium's most stable isotope, bohrium-270, has a half-life of about 1 minute. It decays into dubnium-266 through alpha decay. Formally known as Ns, Nielsbohrium"
+      "benefits": "First produced in 1976 by scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, and later confirmed in 1981 by Peter Armbruster, Gottfried Münzenber and their team working at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany, bohrium was produced by bombarding a target of bismuth-209 with ions of chromium-54.Bohrium's most stable isotope, bohrium-270, has a half-life of about 1 minute. It decays into dubnium-266 through alpha decay. Formally known as Ns, Nielsbohrium"
     },
     {
       "alloys": "",
@@ -3645,7 +3645,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1984",
       "minerals": "",
-      "history": "The name derives from  Latin Hassias meaning Hess. Hassium was first produced by Peter Armbruster, Gottfried Münzenber and their team working at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany in 1984. They bombarded atoms of lead-208 with ions of iron-58 with a device known as a linear accelerator. This produced atoms of hassium-265, an isotope with a half-life of about 2 milliseconds (0.002 seconds), and a free neutron.Hassium's most stable isotope, hassium-270, has a half-life of about 22 seconds. It decays into seaborgium-266 through alpha decay."
+      "benefits": "The name derives from  Latin Hassias meaning Hess. Hassium was first produced by Peter Armbruster, Gottfried Münzenber and their team working at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany in 1984. They bombarded atoms of lead-208 with ions of iron-58 with a device known as a linear accelerator. This produced atoms of hassium-265, an isotope with a half-life of about 2 milliseconds (0.002 seconds), and a free neutron.Hassium's most stable isotope, hassium-270, has a half-life of about 22 seconds. It decays into seaborgium-266 through alpha decay."
     },
     {
       "alloys": "",
@@ -3679,7 +3679,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1982",
       "minerals": "",
-      "history": "Meitnerium was first produced by Peter Armbruster, Gottfried Münzenber and their team working at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany in 1982. They bombarded atoms of bismuth-209 with ions of iron-58 with a device known as a linear accelerator. This produced atoms of meitnerium-266, an isotope with a half-life of about 3.8 milliseconds (0.0038 seconds), and a free neutron.Meitnerium's most stable isotope, meitnerium-278, has a half-life of about 8 seconds. It decays into bohrium-274 through alpha decay."
+      "benefits": "Meitnerium was first produced by Peter Armbruster, Gottfried Münzenber and their team working at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany in 1982. They bombarded atoms of bismuth-209 with ions of iron-58 with a device known as a linear accelerator. This produced atoms of meitnerium-266, an isotope with a half-life of about 3.8 milliseconds (0.0038 seconds), and a free neutron.Meitnerium's most stable isotope, meitnerium-278, has a half-life of about 8 seconds. It decays into bohrium-274 through alpha decay."
     },
     {
       "alloys": "",
@@ -3713,7 +3713,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1994",
       "minerals": "",
-      "history": "Darmstadtium was first produced by Peter Armbruster, Gottfried Münzenber and their team working at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany on November 9th, 1994. They bombarded atoms of lead with ions of nickel with a device known as a linear accelerator. This produced one atom of darmstadtium-269, an isotope with a half-life of about 0.17 milliseconds (0.00017 seconds), after at least a billion billion (1,000,000,000,000,000,000) nickel ions were fired at the lead target over the course of a week.Darmstadtium's most stable isotope, darmstadtium-281, has a half-life of about 20 seconds. About 15% of the time, it decays into hassium-277 through alpha decay. The remaining 85% of the time, it decays through spontaneous fission."
+      "benefits": "Darmstadtium was first produced by Peter Armbruster, Gottfried Münzenber and their team working at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany on November 9th, 1994. They bombarded atoms of lead with ions of nickel with a device known as a linear accelerator. This produced one atom of darmstadtium-269, an isotope with a half-life of about 0.17 milliseconds (0.00017 seconds), after at least a billion billion (1,000,000,000,000,000,000) nickel ions were fired at the lead target over the course of a week.Darmstadtium's most stable isotope, darmstadtium-281, has a half-life of about 20 seconds. About 15% of the time, it decays into hassium-277 through alpha decay. The remaining 85% of the time, it decays through spontaneous fission."
     },
     {
       "alloys": "",
@@ -3747,7 +3747,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1994",
       "minerals": "",
-      "history": "Roentgenium was first produced by Peter Armbruster, Gottfried Münzenber and their team working at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany in late 1994. They bombarded atoms of bismuth-209 with ions of nickel-64 with a device known as a linear accelerator. This produced three atoms of roentgenium-272, an isotope with a half-life of about 1.5 milliseconds (0.0015 seconds), and a free neutron.Roentgenium's most stable isotope, roentgenium-281, has a half-life of about 26 seconds and decays through spontaneous fission."
+      "benefits": "Roentgenium was first produced by Peter Armbruster, Gottfried Münzenber and their team working at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany in late 1994. They bombarded atoms of bismuth-209 with ions of nickel-64 with a device known as a linear accelerator. This produced three atoms of roentgenium-272, an isotope with a half-life of about 1.5 milliseconds (0.0015 seconds), and a free neutron.Roentgenium's most stable isotope, roentgenium-281, has a half-life of about 26 seconds and decays through spontaneous fission."
     },
     {
       "alloys": "",
@@ -3781,7 +3781,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1996",
       "minerals": "",
-      "history": "Copernicium was first produced by Peter Armbruster, Gottfried Münzenber and their team working at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany on February 9, 1996. They bombarded atoms of lead with ions of zinc with a device known as a linear accelerator. This produced atoms of copernicium-277, an isotope with a half-life of about 0.24 milliseconds (0.00024 seconds).Copernicium's most stable isotope, copernicium-285, has a half-life of about 30 seconds. It decays into darmstadtium-281 through alpha decay."
+      "benefits": "Copernicium was first produced by Peter Armbruster, Gottfried Münzenber and their team working at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany on February 9, 1996. They bombarded atoms of lead with ions of zinc with a device known as a linear accelerator. This produced atoms of copernicium-277, an isotope with a half-life of about 0.24 milliseconds (0.00024 seconds).Copernicium's most stable isotope, copernicium-285, has a half-life of about 30 seconds. It decays into darmstadtium-281 through alpha decay."
     },
     {
       "alloys": "",
@@ -3815,7 +3815,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "2003",
       "minerals": "",
-      "history": "On July 23, 2004, scientists working at the RIKEN Nishina Center for Accelerator-based Science in Wako, Japan, created the first two atoms of the element nihonium by accelerating zinc ions to 10 percent the speed of light and then impacting them onto a thin bismuth target. Both atoms quickly underwent a series of four alpha decays, forming dubnium-262, which then decayed by spontaneous fission.Nihonium's most stable isotope, nihonium-286, has a half-life of about 20 seconds. It decays into roentgenium-282 through alpha decay."
+      "benefits": "On July 23, 2004, scientists working at the RIKEN Nishina Center for Accelerator-based Science in Wako, Japan, created the first two atoms of the element nihonium by accelerating zinc ions to 10 percent the speed of light and then impacting them onto a thin bismuth target. Both atoms quickly underwent a series of four alpha decays, forming dubnium-262, which then decayed by spontaneous fission.Nihonium's most stable isotope, nihonium-286, has a half-life of about 20 seconds. It decays into roentgenium-282 through alpha decay."
     },
     {
       "alloys": "",
@@ -3849,7 +3849,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "1998",
       "minerals": "",
-      "history": "Flerovium was first produced by scientists working at the Joint Institute for Nuclear Research in Dubna, Russia in 1998. They bombarded atoms of plutonium with ions of calcium. This produced a single atom of flerovium-289, an isotope with a half-life of about 21 seconds.Flerovium's most stable isotope, flerovium-289, has a half-life of about 0.97 seconds. It decays into copernicium-285 through alpha decay."
+      "benefits": "Flerovium was first produced by scientists working at the Joint Institute for Nuclear Research in Dubna, Russia in 1998. They bombarded atoms of plutonium with ions of calcium. This produced a single atom of flerovium-289, an isotope with a half-life of about 21 seconds.Flerovium's most stable isotope, flerovium-289, has a half-life of about 0.97 seconds. It decays into copernicium-285 through alpha decay."
     },
     {
       "alloys": "",
@@ -3883,7 +3883,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "2003",
       "minerals": "",
-      "history": "On February 2, 2004, scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, along with scientists from the U.S. Department of Energy's Lawrence Livermore National Laboratory and Oak Ridge National Laboratory, announced the creation of moscovium. In experiments performed between July 14, 2003 and August 10, 2003, atoms of americium-243 were bombarded with ions of calcium-48 using a device called a cyclotron. This produced one atom of moscovium-287 and three atoms of moscovium-288. All four atoms quickly decayed into other elements.Moscovium's most stable isotope, moscovium-289, has a half-life of about 220 milliseconds. It decays into nihonium-285 through alpha decay."
+      "benefits": "On February 2, 2004, scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, along with scientists from the U.S. Department of Energy's Lawrence Livermore National Laboratory and Oak Ridge National Laboratory, announced the creation of moscovium. In experiments performed between July 14, 2003 and August 10, 2003, atoms of americium-243 were bombarded with ions of calcium-48 using a device called a cyclotron. This produced one atom of moscovium-287 and three atoms of moscovium-288. All four atoms quickly decayed into other elements.Moscovium's most stable isotope, moscovium-289, has a half-life of about 220 milliseconds. It decays into nihonium-285 through alpha decay."
     },
     {
       "alloys": "",
@@ -3917,7 +3917,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "2000",
       "minerals": "",
-      "history": "On December 6, 2000, scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, along with scientists from the U.S. Department of Energy's Lawrence Livermore National Laboratory, announced the creation of livermorium. They produced livermorium by bombarding atoms of curium-248 with ions of calcium-48. This produced livermorium-292, an isotope with a half-life of about 0.6 milliseconds (0.0006 seconds), and four free neutrons.Livermorium's most stable isotope, livermorium-293, has a half-life of about 53 milliseconds. It decays into flerovium-289 through alpha decay."
+      "benefits": "On December 6, 2000, scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, along with scientists from the U.S. Department of Energy's Lawrence Livermore National Laboratory, announced the creation of livermorium. They produced livermorium by bombarding atoms of curium-248 with ions of calcium-48. This produced livermorium-292, an isotope with a half-life of about 0.6 milliseconds (0.0006 seconds), and four free neutrons.Livermorium's most stable isotope, livermorium-293, has a half-life of about 53 milliseconds. It decays into flerovium-289 through alpha decay."
     },
     {
       "alloys": "",
@@ -3951,7 +3951,7 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "2010",
       "minerals": "",
-      "history": "On April 5, 2010, scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, along with scientists from the U.S. Department of Energy's Lawrence Livermore National Laboratory and Oak Ridge National Laboratory, announced the creation of tennessine. They produced tennessine by bombarding atoms of berkelium-249 with ions of calcium-48.Tennessine's most stable isotope, tennessine-294, has a half-life of about 80 milliseconds. It decays into moscovium-290 through alpha decay."
+      "benefits": "On April 5, 2010, scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, along with scientists from the U.S. Department of Energy's Lawrence Livermore National Laboratory and Oak Ridge National Laboratory, announced the creation of tennessine. They produced tennessine by bombarding atoms of berkelium-249 with ions of calcium-48.Tennessine's most stable isotope, tennessine-294, has a half-life of about 80 milliseconds. It decays into moscovium-290 through alpha decay."
     },
     {
       "alloys": "",
@@ -3985,6 +3985,6 @@
       "vanDelWaalsRadius": "",
       "yearDiscovered": "2002",
       "minerals": "",
-      "history": "On October 16, 2006, scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, along with scientists from the U.S. Department of Energy's Lawrence Livermore National Laboratory, announced the creation of oganesson. They produced oganesson by bombarding atoms of californium-249 with ions of calcium-48. This produced oganesson-294, an isotope with a half-life of about 0.89 milliseconds (0.00089 seconds), and three free neutrons. The californium target was irradiated with a total of 1.6*1019 calcium ions over the course of 1080 hours, resulting in the production of three atoms of oganesson.Oganesson's most stable isotope, oganesson-294, has a half-life of about 0.89 milliseconds. It decays into livermorium-290 through alpha decay."
+      "benefits": "On October 16, 2006, scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, along with scientists from the U.S. Department of Energy's Lawrence Livermore National Laboratory, announced the creation of oganesson. They produced oganesson by bombarding atoms of californium-249 with ions of calcium-48. This produced oganesson-294, an isotope with a half-life of about 0.89 milliseconds (0.00089 seconds), and three free neutrons. The californium target was irradiated with a total of 1.6*1019 calcium ions over the course of 1080 hours, resulting in the production of three atoms of oganesson.Oganesson's most stable isotope, oganesson-294, has a half-life of about 0.89 milliseconds. It decays into livermorium-290 through alpha decay."
     }
   ]

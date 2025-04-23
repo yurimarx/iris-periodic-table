@@ -13,7 +13,7 @@ const modalElementSymbol = document.querySelector(".modalElementSymbol");
 const topicNumber = document.querySelector(".topicNumber");
 const yearDiscovered = document.querySelector(".yearDiscovered");
 const elementDescription = document.querySelector(".elementDescription");
-const elementHistory = document.querySelector(".elementHistory");
+const elementBenefits = document.querySelector(".elementBenefits");
 const url = 'periodicdata.json';
 
 //variable to check if the user has clicked on a tile yet , will update with the value of the clicked tile 
@@ -149,7 +149,7 @@ for (let i = 0; i < tileArray.length; i++) {
                 elementDescription.innerHTML = `${DOMPurify.sanitize(clickedElement.description)}`;
             }
             //using DOMpurify to sanitise the data going into the innerHTML to prevent scripting attacks
-            elementHistory.innerHTML = `${DOMPurify.sanitize(clickedElement.history)}`;
+            elementBenefits.innerHTML = `${DOMPurify.sanitize(clickedElement.benefits)}`;
 
         });
     });
