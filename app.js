@@ -5,7 +5,7 @@ const previousButton = document.querySelector(".previousButton");
 const nextButton = document.querySelector(".nextButton");
 const modalFactLabel = document.querySelector(".modalFactLabel");
 const elementalGroup = document.querySelector(".elementalGroup");
-const elementState = document.querySelector(".elementState");
+const elementInfo = document.querySelector(".elementInfo");
 const modalLabels = document.querySelectorAll(".modalLabel");
 
 const modalHeading = document.querySelector(".modalHeading");
@@ -65,7 +65,7 @@ for (let i = 0; i < tileArray.length; i++) {
             modalHeading.innerText = clickedElement.name;
             topicNumber.innerText = clickedElement.topicNumber;
             elementalGroup.innerText = clickedElementalGroup;
-            elementState.innerText = clickedElement.standardState;
+            elementInfo.innerText = clickedElement.info;
             yearDiscovered.innerText = clickedElement.yearDiscovered;
 
 
