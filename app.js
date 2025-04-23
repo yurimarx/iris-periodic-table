@@ -12,7 +12,7 @@ const modalHeading = document.querySelector(".modalHeading");
 const modalElementSymbol = document.querySelector(".modalElementSymbol");
 const topicNumber = document.querySelector(".topicNumber");
 const yearDiscovered = document.querySelector(".yearDiscovered");
-const elementFacts = document.querySelector(".elementFacts");
+const elementDescription = document.querySelector(".elementDescription");
 const elementHistory = document.querySelector(".elementHistory");
 const url = 'periodicdata.json';
 
@@ -138,15 +138,15 @@ for (let i = 0; i < tileArray.length; i++) {
             });
 
 
-            // Not all elements on the API call have facts, If there are none, then dont show any on the page
-            if (clickedElement.facts === "") {
+            // Not all elements on the API call have description, If there are none, then dont show any on the page
+            if (clickedElement.descrption === "") {
                 modalFactLabel.style.display = "none";
-                elementFacts.innerText = "";
+                elementDescription.innerText = "";
             } else {
 
                 modalFactLabel.style.display = "block"
                 //using DOMpurify to sanitise the data going into the innerHTML to prevent scripting attacks
-                elementFacts.innerHTML = `${DOMPurify.sanitize(clickedElement.facts)}`;
+                elementDescription.innerHTML = `${DOMPurify.sanitize(clickedElement.description)}`;
             }
             //using DOMpurify to sanitise the data going into the innerHTML to prevent scripting attacks
             elementHistory.innerHTML = `${DOMPurify.sanitize(clickedElement.history)}`;
