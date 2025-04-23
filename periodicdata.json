@@ -3,11 +3,9 @@
       "topicNumber": "1",
       "info": "https://docs.intersystems.com",
       "description": "A multidimensional storage structure used within an InterSystems IRIS database. Globals are implemented using balanced-tree technology and are used to store strings on disk. They are similar to arrays in ObjectScript, and you don't need to declare them. You can use Set statements to store data, and space on disk is only used when needed. The caret (^) or ^|| character(s) are used before the global name to differentiate them from regular variables.",
-      "group": "1",
       "groupBlock": "nonmetal",
       "name": "Globals",
       "symbol": "Glo",
-      "yearDiscovered": "1766",
       "benefits": "Are persistent, multidimensional, sparsity(not require contiguous subscripts), can store various types of data and can be accessed using different paradigms, such as relational (SQL), object-oriented (ObjectScript), or direct global access"
     },
     {

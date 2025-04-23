@@ -11,7 +11,6 @@ const modalLabels = document.querySelectorAll(".modalLabel");
 const modalHeading = document.querySelector(".modalHeading");
 const modalElementSymbol = document.querySelector(".modalElementSymbol");
 const topicNumber = document.querySelector(".topicNumber");
-const yearDiscovered = document.querySelector(".yearDiscovered");
 const elementDescription = document.querySelector(".elementDescription");
 const elementBenefits = document.querySelector(".elementBenefits");
 const url = 'periodicdata.json';
@@ -66,8 +65,7 @@ for (let i = 0; i < tileArray.length; i++) {
             topicNumber.innerText = clickedElement.topicNumber;
             elementalGroup.innerText = clickedElementalGroup;
             elementInfo.innerText = clickedElement.info;
-            yearDiscovered.innerText = clickedElement.yearDiscovered;
-
+            
 
             //conditional to change the heading border colours depending on the element being rendered. 
             if (clickedElementalGroup === "Non-Metal") {
