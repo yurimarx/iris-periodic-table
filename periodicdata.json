@@ -36,6 +36,51 @@
       "benefits": "Develop end-to-end in Python. Database procedures, integrations, services and microservices, and artificial intelligence."
     },
     {
+      "topicNumber": "5",
+      "info": "https://docs.intersystems.com/irisforhealth20251/csp/docbook/DocBook.UI.Page.cls?KEY=D2GS_ch_intro",
+      "description": "Is a feature of InterSystems IRIS that allows you to embed business intelligence capabilities into your applications. It enables users to ask and answer sophisticated questions about their data through customizable dashboards. These dashboards provide insights using Business Intelligence models known as cubes",
+      "groupBlock": "metalloid",
+      "name": "Analytics/BI",
+      "symbol": "BI",
+      "benefits": "Unlike traditional BI systems that rely on static data warehouses, InterSystems BI stays closely synchronized with live transactional data, ensuring that the insights are up-to-date and relevant. The system uses pivot tables, KPIs (key performance indicators), and listings to present data, and it can respond to runtime inputs such as user-selected filters. This makes it a dynamic and powerful tool for data analysis and decision-making within applications."
+    },
+    {
+      "topicNumber": "6",
+      "info": "https://docs.intersystems.com/irisforhealth20251/csp/docbook/DocBook.UI.Page.cls?KEY=GIML",
+      "description": "IntegratedML is a feature within the InterSystems IRIS data platform that allows you to perform automated machine learning directly from SQL. It enables users to create and use predictive models without needing extensive knowledge of machine learning. The process involves defining a model, training it on data, and then using SQL functions to make predictions.",
+      "groupBlock": "metalloid",
+      "name": "AutoML - IntegratedML",
+      "symbol": "AML",
+      "benefits": "Easy to use (any sql developer), Seamless Integration with data (no need ETL), Automated Machine Learning, Real-Time Predictions and Scalability."
+    },
+    {
+      "topicNumber": "7",
+      "info": "https://docs.intersystems.com/components/csp/docbook/Doc.View.cls?KEY=GISR",
+      "description": "It is a reporting tool that can be used with InterSystems IRIS and InterSystems IRIS for Health. It is a repackaging of Logi Report (formerly known as JReport), a product of Logi Analytics. InterSystems Reports allows users to create, manage, and distribute reports based on the data stored in InterSystems IRIS databases",
+      "groupBlock": "metalloid",
+      "name": "IRIS Reports",
+      "symbol": "Irp",
+      "benefits": "Seamless Integration with IRIS Database, Comprehensive Reporting, User-Friendly, Flexible layout and efficient."
+    },
+    {
+      "topicNumber": "8",
+      "info": "https://docs.intersystems.com/irisforhealth20251/csp/docbook/Doc.View.cls?KEY=ITECHREF_python",
+      "description": "is a feature of InterSystems IRIS that allows you to embed business intelligence capabilities into your applications. It enables users to ask and answer sophisticated questions about their data through customizable dashboards. These dashboards provide insights using Business Intelligence models known as cubes",
+      "groupBlock": "metalloid",
+      "name": "Analytics/BI",
+      "symbol": "BI",
+      "benefits": "Unlike traditional BI systems that rely on static data warehouses, InterSystems BI stays closely synchronized with live transactional data, ensuring that the insights are up-to-date and relevant. The system uses pivot tables, KPIs (key performance indicators), and listings to present data, and it can respond to runtime inputs such as user-selected filters. This makes it a dynamic and powerful tool for data analysis and decision-making within applications."
+    },
+    {
+      "topicNumber": "9",
+      "info": "https://docs.intersystems.com/irisforhealth20251/csp/docbook/Doc.View.cls?KEY=ITECHREF_python",
+      "description": "is a feature of InterSystems IRIS that allows you to embed business intelligence capabilities into your applications. It enables users to ask and answer sophisticated questions about their data through customizable dashboards. These dashboards provide insights using Business Intelligence models known as cubes",
+      "groupBlock": "metalloid",
+      "name": "Analytics/BI",
+      "symbol": "BI",
+      "benefits": "Unlike traditional BI systems that rely on static data warehouses, InterSystems BI stays closely synchronized with live transactional data, ensuring that the insights are up-to-date and relevant. The system uses pivot tables, KPIs (key performance indicators), and listings to present data, and it can respond to runtime inputs such as user-selected filters. This makes it a dynamic and powerful tool for data analysis and decision-making within applications."
+    },
+    {
       "alloys": "",
       "atomicMass": "4.002602(2)",
       "topicNumber": "2",
