@@ -64,21 +64,21 @@
     },
     {
       "topicNumber": "8",
-      "info": "https://docs.intersystems.com/irisforhealth20251/csp/docbook/Doc.View.cls?KEY=ITECHREF_python",
-      "description": "is a feature of InterSystems IRIS that allows you to embed business intelligence capabilities into your applications. It enables users to ask and answer sophisticated questions about their data through customizable dashboards. These dashboards provide insights using Business Intelligence models known as cubes",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=APMML#APMML_background",
+      "description": "PMML, or Predictive Modelling Markup Language, is an XML-based standard used to express analytics models. It allows applications to define statistical and data mining models in a way that makes them easily reusable and shareable",
       "groupBlock": "metalloid",
-      "name": "Analytics/BI",
-      "symbol": "BI",
-      "benefits": "Unlike traditional BI systems that rely on static data warehouses, InterSystems BI stays closely synchronized with live transactional data, ensuring that the insights are up-to-date and relevant. The system uses pivot tables, KPIs (key performance indicators), and listings to present data, and it can respond to runtime inputs such as user-selected filters. This makes it a dynamic and powerful tool for data analysis and decision-making within applications."
+      "name": "PMML ML Models",
+      "symbol": "Pmml",
+      "benefits": "Standardized way to represent analytics models, allowing models to be easily shared and reused across different platforms and tools. It separates the model creation process from the deployment process. PMML supports a wide range of model types and can be used with various data mining and statistical tools."
     },
     {
       "topicNumber": "9",
-      "info": "https://docs.intersystems.com/irisforhealth20251/csp/docbook/Doc.View.cls?KEY=ITECHREF_python",
-      "description": "is a feature of InterSystems IRIS that allows you to embed business intelligence capabilities into your applications. It enables users to ask and answer sophisticated questions about their data through customizable dashboards. These dashboards provide insights using Business Intelligence models known as cubes",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=EDTL_intro",
+      "description": "DTL, or Data Transformation Language, is a form of business logic used within interoperability productions in InterSystems products, which allows you to create and edit transformations visually using the DTL editor.",
       "groupBlock": "metalloid",
-      "name": "Analytics/BI",
-      "symbol": "BI",
-      "benefits": "Unlike traditional BI systems that rely on static data warehouses, InterSystems BI stays closely synchronized with live transactional data, ensuring that the insights are up-to-date and relevant. The system uses pivot tables, KPIs (key performance indicators), and listings to present data, and it can respond to runtime inputs such as user-selected filters. This makes it a dynamic and powerful tool for data analysis and decision-making within applications."
+      "name": "Data Transformation Language",
+      "symbol": "DTL",
+      "benefits": "The DTL editor is designed for nontechnical users, allowing them to create and edit data transformations visually without needing extensive programming knowledge."
     },
     {
       "alloys": "",
