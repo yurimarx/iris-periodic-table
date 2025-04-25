@@ -81,6 +81,33 @@
       "benefits": "The DTL editor is designed for nontechnical users, allowing them to create and edit data transformations visually without needing extensive programming knowledge."
     },
     {
+      "topicNumber": "10",
+      "info": "https://www.intersystems.com/industries/government-public-sector/",
+      "description": "Government and public sector organizations at all levels from local to national need access to reliable, high-quality data to understand challenges and make critical decisions.",
+      "groupBlock": "noble gas",
+      "name": "Public sector solutions",
+      "symbol": "Gov",
+      "benefits": "Extensive experience in government healthcare. Fast, Flexible, Scalable. Unmatched health expertise. Unique architectural approach."
+    },
+    {
+      "topicNumber": "11",
+      "info": "https://docs.intersystems.com",
+      "description": "A document database (DocDB) is a type of database designed to store, retrieve, and manage document-oriented information. In the context of InterSystems, a DocDB allows you to create, modify, and delete document databases, which are optimized for handling semi-structured data, such as JSON documents.",
+      "groupBlock": "nonmetal",
+      "name": "Document Database - NoSQL Database",
+      "symbol": "Doc",
+      "benefits": "DocDBs are often used in scenarios where rapid development and iteration are important, as they allow for easy schema evolution and data manipulation."
+    },
+    {
+      "topicNumber": "12",
+      "info": "https://www.intersystems.com/industries/healthcare-technology/",
+      "description": "Java PEX refers to the use of the Production EXtension (PEX) framework with the Java programming language. The PEX framework allows you to develop custom components for interoperability productions using external languages like Java. With Java PEX, you can create various production components such as inbound and outbound adapters, business services, business processes, and business operations. This enables you to integrate systems with different message formats and communication protocols using Java.",
+      "groupBlock": "noble gas",
+      "name": "Health Solutions",
+      "symbol": "Hlh",
+      "benefits": "Utilize available Java libraries to create new adapters for protocols. Java PEX allows for flexible connections between business services, processes, and operations. By using Java, you can develop components in a language that may be more familiar or suitable for your team's expertise."
+    },
+    {
       "alloys": "",
       "atomicMass": "4.002602(2)",
       "topicNumber": "2",
