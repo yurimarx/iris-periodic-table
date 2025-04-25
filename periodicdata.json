@@ -103,8 +103,8 @@
       "info": "https://www.intersystems.com/industries/healthcare-technology/",
       "description": "Java PEX refers to the use of the Production EXtension (PEX) framework with the Java programming language. The PEX framework allows you to develop custom components for interoperability productions using external languages like Java. With Java PEX, you can create various production components such as inbound and outbound adapters, business services, business processes, and business operations. This enables you to integrate systems with different message formats and communication protocols using Java.",
       "groupBlock": "noble gas",
-      "name": "Health Solutions",
-      "symbol": "Hlh",
+      "name": "PEX - Java",
+      "symbol": "Java",
       "benefits": "Utilize available Java libraries to create new adapters for protocols. Java PEX allows for flexible connections between business services, processes, and operations. By using Java, you can develop components in a language that may be more familiar or suitable for your team's expertise."
     },
     {
