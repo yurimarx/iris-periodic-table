@@ -108,6 +108,51 @@
       "benefits": "Utilize available Java libraries to create new adapters for protocols. Java PEX allows for flexible connections between business services, processes, and operations. By using Java, you can develop components in a language that may be more familiar or suitable for your team's expertise."
     },
     {
+      "topicNumber": "13",
+      "info": "https://docs.intersystems.com/irisforhealth20251/csp/docbook/DocBook.UI.Page.cls?KEY=D2GMDX_ch_intro#D2GMDX_intro_mdx",
+      "description": "MDX, or MultiDimensional eXpressions, is a standard query language used for OLAP (online analytical processing) databases. It is widely used in business intelligence applications to execute queries against a cube, allowing for the retrieval and analysis of multidimensional data. The results of these queries can be displayed as pivot tables, which are useful for data analysis and reporting.",
+      "groupBlock": "metalloid",
+      "name": "MultiDimensional eXpressions",
+      "symbol": "MDX",
+      "benefits": "MDX provides syntax for referring to cube elements and allows for complex querying of multidimensional data.  In InterSystems Business Intelligence, MDX is supported for creating pivot tables, running queries directly, and using an API for executing queries."
+    },
+    {
+      "topicNumber": "14",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=EDTL_intro",
+      "description": "Power BI is a business analytics service provided by Microsoft that enables users to visualize and share insights from their data. It offers interactive visualizations and business intelligence capabilities with an interface that is simple enough for end users to create their own reports and dashboards. InterSystems provides a PBI connector for IRIS databases",
+      "groupBlock": "metalloid",
+      "name": "Power BI conector",
+      "symbol": "PBI",
+      "benefits": "Power BI can connect to a wide range of data sources. It provides a variety of visualization options. Power BI supports real-time data streaming. With its user-friendly interface, Power BI allows users to easily create reports and dashboards without needing extensive technical knowledge. Users can share reports and dashboards with others."
+    },
+    {
+      "topicNumber": "15",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=EDTL_intro",
+      "description": "InterSystems IRIS Adaptive Analytics is an optional extension for InterSystems IRIS that provides a business-oriented, virtual data model layer between InterSystems IRIS and popular Business Intelligence (BI) and Artificial Intelligence (AI) client tools. It includes an intuitive user interface for developing a data model in the form of virtual cubes, where data can be organized, calculated measures consistently defined, and data fields clearly named.",
+      "groupBlock": "metalloid",
+      "name": "Adaptive Analytics",
+      "symbol": "ADA",
+      "benefits": "The Adaptive Analytics modeler makes data accessible for business users without exposing complex data structures, tables, or relationships. Changes to the data model are published as virtual cubes, preventing disruption caused by lengthy rebuilds.  It provides unified access to an online analytical processing (OLAP) model via the BI tool of your choice. Adaptive Analytics offers live connectivity to all data stored within InterSystems IRIS, ensuring that users are working with the most current data. It includes automated data structure aggregation for frequently-used queries, improving query performance and efficiency."
+    },
+    {
+      "topicNumber": "16",
+      "info": "https://www.intersystems.com/products/intersystems-iris/generative-ai/",
+      "description": "Generative AI is a type of artificial intelligence that can create new content, such as text, images, video, and music, based on input or prompts. It learns from vast datasets to identify patterns and then generates new, original content that is similar to the data it was trained on. This type of AI is used in various applications, including content creation, design, and scientific research.  InterSystems IRIS® includes powerful built-in generative AI capabilities so that you can build smart enterprise applications powered by semantic search and generative AI over any type of data. Vector capabilities are a native part of InterSystems IRIS core multi-model database engine, alongside JSON, full text, objects, relational tables, key-value, and other data types. This makes it possible to power AI apps with structured and unstructured data in the same engine, without data movement.",
+      "groupBlock": "metalloid",
+      "name": "Generative Artificial Intelligence",
+      "symbol": "GenAI",
+      "benefits": "Generative AI could dramatically increase productivity and transform workloads in many industries. It can be used to respond to questions in customer service chats, create schedules, summarize information, produce Internet content—and more."
+    },
+    {
+      "topicNumber": "17",
+      "info": "https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=ARGATEWAY",
+      "description": "R is a statistical computing and graphics system. This system is comprised of two parts: the R language itself (which is what most people mean when they talk about R) and a run-time environment. The InterSystems R Gateway is an extension of the Java External Server that enables a connection to an R interpreter through third party software. It incorporates two third party packages: Rserve is a binary package that provides a TCP/IP connection to an R interpreter. R-Engine is a Java client for Rserve. These packages allow InterSystems IRIS to access the R interpreter via the InterSystems R Gateway. The R Gateway provides an interface to the R language that can be used in the same way as any other External Server language interface.",
+      "groupBlock": "metalloid",
+      "name": "R Language",
+      "symbol": "R",
+      "benefits": "Because it was first designed by statisticians for statistical purposes, R is exceptionally well-suited to data science, an important field in today's world. While R's core function is statistical analysis and graphics, its use extends past these and into AI, machine learning, financial analysis, and more."
+    },
+    {
       "alloys": "",
       "atomicMass": "4.002602(2)",
       "topicNumber": "2",
