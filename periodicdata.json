@@ -153,6 +153,24 @@
       "benefits": "Because it was first designed by statisticians for statistical purposes, R is exceptionally well-suited to data science, an important field in today's world. While R's core function is statistical analysis and graphics, its use extends past these and into AI, machine learning, financial analysis, and more."
     },
     {
+      "topicNumber": "18",
+      "info": "https://www.intersystems.com/industries/financial-services-technology/",
+      "description": "InterSystems Financial Services Solutions are a suite of technologies and services designed to help financial institutions like banks, asset managers, and insurers, improve data management, personalize customer experiences, and enhance operational efficiency. These solutions leverage InterSystems' core technologies like IRIS and Data Fabric Studio to provide a single, unified view of customer data and streamline access to information across various systems.",
+      "groupBlock": "noble gas",
+      "name": "Financial services",
+      "symbol": "Fin",
+      "benefits": "Connect data from disparate systems and silos, creating a single source of truth for customer information. 360-degree view of customers, these solutions enable financial institutions to offer more personalized and tailored services. More agile and flexible environment for building and deploying new applications. Facilitate compliance with regulations and improve risk management through better data access and analysis. Help reduce operational costs and improve efficiency."
+    },
+    {
+      "topicNumber": "19",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/Doc.View.cls?KEY=D2MODEL_ch_concepts#D2MODEL_concepts_cubes",
+      "description": "OLAP (Online Analytical Processing) is a technology that enables fast, multidimensional analysis of large volumes of data, supporting complex calculations, trend analysis, and data modeling. It is used for business intelligence and decision-making.",
+      "groupBlock": "nonmetal",
+      "name": "OLAP Database",
+      "symbol": "Olap",
+      "benefits": "Benefits include improved decision-making, real-time insights, and enhanced data visualization."
+    },
+    {
       "alloys": "",
       "atomicMass": "4.002602(2)",
       "topicNumber": "2",
