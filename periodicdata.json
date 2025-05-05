@@ -243,6 +243,33 @@
       "benefits": "RabbitMQ supports multiple open standard protocols, making it versatile for various messaging needs. InterSystems IRIS specifically works with the AMQP 0–9–1 protocol implementation. RabbitMQ ensures reliable message delivery through features like message acknowledgments, persistence, and publisher confirms, which help prevent message loss. It can handle a large number of messages and concurrent connections, making it suitable for scaling applications as demand grows.  RabbitMQ allows for complex routing of messages through exchanges and bindings, enabling sophisticated message distribution patterns. By acting as a central message broker, RabbitMQ facilitates communication between different systems and applications, even if they are built on different technologies. RabbitMQ provides a user-friendly management interface and a variety of client libraries, making it accessible for developers to implement and manage. As a widely used open-source project, RabbitMQ has a strong community and extensive documentation, providing resources and support for users."
     },
     {
+      "topicNumber": "28",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=ECLOUD_api#ECLOUD_api_bucket",
+      "description": "A cloud bucket is a storage container used in cloud computing to store and organize data, typically in the form of blobs (binary large objects).",
+      "groupBlock": "transition metal",
+      "name": "Cloud Bucket",
+      "symbol": "Bkt",
+      "benefits": "Cloud buckets can handle vast amounts of data, allowing you to scale your storage needs up or down as required without worrying about physical hardware limitations. Cloud providers often replicate data across multiple locations, ensuring high durability and availability, which protects against data loss. You typically pay only for the storage you use, which can be more cost-effective than maintaining on-premises storage infrastructure. Cloud storage providers offer robust security features, including encryption, access controls, and compliance with industry standards, to protect your data. Cloud buckets can easily integrate with other cloud services and applications, facilitating seamless data workflows and processing."
+    },
+    {
+      "topicNumber": "29",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=ITECHREF_email#ITECHREF_email_available_tools",
+      "description": "An email adapter in the context of InterSystems products is a component that enables a production to send and receive emails. These adapters are built on the basic support provided in the %Net package. They are available in all interoperability-enabled namespaces.",
+      "groupBlock": "transition metal",
+      "name": "Email Adapter",
+      "symbol": "Eml",
+      "benefits": "Email adapters can automate the process of sending and receiving emails within a production, reducing the need for manual intervention. They facilitate the integration of email communication into larger interoperability solutions, allowing seamless data exchange and notification. By automating email processes, organizations can improve efficiency and ensure timely communication. Email adapters can be configured to meet specific business needs, such as custom email formats or specific handling rules. Built on robust infrastructure, email adapters ensure reliable email delivery and receipt, which is crucial for business operations."
+    },
+    {
+      "topicNumber": "30",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=ITECHREF_email#ITECHREF_email_available_tools",
+      "description": "MQTT adapters in InterSystems products enable a production to receive and send MQTT messages. They are available in all interoperability-enabled namespaces and consist of two main components: the MQTT Inbound Adapter and the MQTT Outbound Adapter.",
+      "groupBlock": "transition metal",
+      "name": "MQTT Adapter",
+      "symbol": "Mqtt",
+      "benefits": "MQTT adapters facilitate real-time message exchange, which is ideal for applications requiring instant data updates. They support scalable communication, allowing systems to handle a large number of devices and messages efficiently. MQTT is a lightweight protocol, making it suitable for devices with limited resources, such as IoT devices. The use of wildcards in topic subscriptions allows for flexible message filtering and routing. MQTT adapters ensure reliable message delivery, which is crucial for mission-critical applications."
+    },
+    {
       "alloys": "",
       "atomicMass": "4.002602(2)",
       "topicNumber": "2",
