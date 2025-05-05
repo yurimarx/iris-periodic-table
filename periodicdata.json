@@ -171,6 +171,60 @@
       "benefits": "Benefits include improved decision-making, real-time insights, and enhanced data visualization."
     },
     {
+      "topicNumber": "20",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/Doc.View.cls?KEY=PAGE_dotnet",
+      "description": "Dotnet PEX refers to the use of the Production EXtension (PEX) framework with the Microsoft Dotnet programming language. The PEX framework allows you to develop custom components for interoperability productions using external languages like Dotnet. With Dotnet PEX, you can create various production components such as inbound and outbound adapters, business services, business processes, and business operations. This enables you to integrate systems with different message formats and communication protocols using Dotnet.",
+      "groupBlock": "noble gas",
+      "name": "PEX - Dotnet",
+      "symbol": ".Net",
+      "benefits": "Utilize available Dotnet libraries to create new adapters for protocols. Dotnet PEX allows for flexible connections between business services, processes, and operations. By using Dotnet, you can develop components in a language that may be more familiar or suitable for your team's expertise."
+    },
+    {
+      "topicNumber": "21",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=EHTTP_intro",
+      "description": "HTTP adapters in InterSystems are components that enable your production to send and receive HTTP requests and responses. They provide an HTTP listener for custom port listening, XML listening, or raw HTML handling. The adapters support standard HTTP operations such as Post, Get, and Put, and they allow the use of proxy servers. These adapters are included automatically in many specialized business host classes and are available in all interoperability-enabled namespaces.",
+      "groupBlock": "transition metal",
+      "name": "Http Adapter",
+      "symbol": "Http",
+      "benefits": "They support standard HTTP operations such as Post, Get, and Put, which are essential for web communication. They provide an HTTP listener for custom port listening, allowing for flexible integration with various systems. The adapters can handle XML listening and raw HTML, making them versatile for different types of data exchanges. They allow the use of proxy servers, which can be important for network security and management. hese adapters are automatically included in many specialized business host classes, facilitating easier integration without the need for extensive programming. Available in all interoperability-enabled namespaces, they enhance the ability to connect and interact with external systems seamlessly."
+    },
+    {
+      "topicNumber": "22",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=GREST_intro",
+      "description": "In InterSystems IRIS, a REST adapter is used to facilitate communication with RESTful web services. It allows you to create REST interfaces that can be used to interact with external systems or to expose your own applications' functionality as RESTful services. The REST adapter handles the HTTP communication details, such as managing requests and responses, so you can focus on implementing the business logic.",
+      "groupBlock": "transition metal",
+      "name": "Rest Adapter",
+      "symbol": "Rest",
+      "benefits": "It supports standard RESTful operations like GET, POST, PUT, and DELETE, enabling CRUD (Create, Read, Update, Delete) operations over HTTP. The REST adapter can be used within business host classes in InterSystems IRIS, allowing for seamless integration into interoperability productions. It can be used to both consume external RESTful services and expose your own services, providing flexibility in how you integrate with other systems. By handling the complexities of HTTP communication, the REST adapter simplifies the process of developing RESTful services, allowing developers to focus on the application logic."
+    },
+    {
+      "topicNumber": "23",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=GREST_intro",
+      "description": "The SOAP adapter in InterSystems IRIS is used to facilitate communication with SOAP-based web services. It provides a way to handle SOAP requests and responses within interoperability productions.",
+      "groupBlock": "transition metal",
+      "name": "Soap Adapter",
+      "symbol": "Soap",
+      "benefits": "The SOAP Inbound Adapter is easier to configure compared to setting up a full web server for SOAP services. This makes it a lightweight option for handling SOAP requests. It allows your system to act as a SOAP client or server, enabling integration with external SOAP-based web services. When using the standard SOAP framework in InterSystems IRIS, you can leverage the security features provided by commercial web servers, ensuring secure communication. The SOAP adapter supports the SOAP protocol, which is widely used in enterprise environments, allowing for seamless integration with other systems that use SOAP. You can choose between using the standard SOAP framework for full web server support or the SOAP Inbound Adapter for a more lightweight and easier-to-configure option."
+    },
+    {
+      "topicNumber": "24",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=ESOAP_reference",
+      "description": "The SOAP adapter in InterSystems IRIS is used to facilitate communication with SOAP-based web services. It provides a way to handle SOAP requests and responses within interoperability productions.",
+      "groupBlock": "transition metal",
+      "name": "Soap Adapter",
+      "symbol": "Soap",
+      "benefits": "The SOAP Inbound Adapter is easier to configure compared to setting up a full web server for SOAP services. This makes it a lightweight option for handling SOAP requests. It allows your system to act as a SOAP client or server, enabling integration with external SOAP-based web services. When using the standard SOAP framework in InterSystems IRIS, you can leverage the security features provided by commercial web servers, ensuring secure communication. The SOAP adapter supports the SOAP protocol, which is widely used in enterprise environments, allowing for seamless integration with other systems that use SOAP. You can choose between using the standard SOAP framework for full web server support or the SOAP Inbound Adapter for a more lightweight and easier-to-configure option."
+    },
+    {
+      "topicNumber": "25",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=ESOAP_reference",
+      "description": "In InterSystems IRIS, file adapters are used to facilitate the reading from and writing to files within interoperability productions. There are two main types of file adapters: the File Inbound Adapter and the File Outbound Adapter.",
+      "groupBlock": "transition metal",
+      "name": "File Adapter",
+      "symbol": "File",
+      "benefits": " Automates the process of importing data from files, which can be scheduled or triggered based on specific conditions. Supports various file formats and can be configured to handle different types of data. Easily integrates with other components within an interoperability production, allowing seamless data flow from files to other systems or processes."
+    },
+    {
       "alloys": "",
       "atomicMass": "4.002602(2)",
       "topicNumber": "2",
