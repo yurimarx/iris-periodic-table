@@ -207,15 +207,6 @@
       "benefits": "The SOAP Inbound Adapter is easier to configure compared to setting up a full web server for SOAP services. This makes it a lightweight option for handling SOAP requests. It allows your system to act as a SOAP client or server, enabling integration with external SOAP-based web services. When using the standard SOAP framework in InterSystems IRIS, you can leverage the security features provided by commercial web servers, ensuring secure communication. The SOAP adapter supports the SOAP protocol, which is widely used in enterprise environments, allowing for seamless integration with other systems that use SOAP. You can choose between using the standard SOAP framework for full web server support or the SOAP Inbound Adapter for a more lightweight and easier-to-configure option."
     },
     {
-      "topicNumber": "24",
-      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=ESOAP_reference",
-      "description": "The SOAP adapter in InterSystems IRIS is used to facilitate communication with SOAP-based web services. It provides a way to handle SOAP requests and responses within interoperability productions.",
-      "groupBlock": "transition metal",
-      "name": "Soap Adapter",
-      "symbol": "Soap",
-      "benefits": "The SOAP Inbound Adapter is easier to configure compared to setting up a full web server for SOAP services. This makes it a lightweight option for handling SOAP requests. It allows your system to act as a SOAP client or server, enabling integration with external SOAP-based web services. When using the standard SOAP framework in InterSystems IRIS, you can leverage the security features provided by commercial web servers, ensuring secure communication. The SOAP adapter supports the SOAP protocol, which is widely used in enterprise environments, allowing for seamless integration with other systems that use SOAP. You can choose between using the standard SOAP framework for full web server support or the SOAP Inbound Adapter for a more lightweight and easier-to-configure option."
-    },
-    {
       "topicNumber": "25",
       "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=ESOAP_reference",
       "description": "In InterSystems IRIS, file adapters are used to facilitate the reading from and writing to files within interoperability productions. There are two main types of file adapters: the File Inbound Adapter and the File Outbound Adapter.",
