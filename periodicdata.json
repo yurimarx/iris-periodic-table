@@ -217,12 +217,12 @@
     },
     {
       "topicNumber": "25",
-      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=ESOAP_reference",
-      "description": "In InterSystems IRIS, file adapters are used to facilitate the reading from and writing to files within interoperability productions. There are two main types of file adapters: the File Inbound Adapter and the File Outbound Adapter.",
+      "info": "https://docs.intersystems.com/iris20251/csp/docbook/DocBook.UI.Page.cls?KEY=EFTP",
+      "description": "In InterSystems IRIS, FTP adapters are used to facilitate the transfer of files to and from FTP servers within interoperability productions. There are two main types of FTP adapters: the FTP Inbound Adapter and the FTP Outbound Adapter.",
       "groupBlock": "transition metal",
-      "name": "File Adapter",
-      "symbol": "File",
-      "benefits": " Automates the process of importing data from files, which can be scheduled or triggered based on specific conditions. Supports various file formats and can be configured to handle different types of data. Easily integrates with other components within an interoperability production, allowing seamless data flow from files to other systems or processes."
+      "name": "FTP Adapter",
+      "symbol": "Ftp",
+      "benefits": " Automates the process of downloading files from FTP/SFTP servers, which can be scheduled or triggered based on specific conditions.  Easily integrates with other components within an interoperability production, allowing seamless data flow from FTP servers to other systems or processes. InterSystems IRIS provides specialized business service classes that use this adapter, which might eliminate the need for custom programming."
     },
     {
       "alloys": "",
